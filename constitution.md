@@ -5,11 +5,11 @@ The Constitution of Kenya (2010)
 
 We, the people of Kenya:
 
-**ACKNOWLEDGING** the supremacy of the Almighty God of all creation:
+**ACKNOWLEDGING **  the supremacy of the Almighty God of all creation:
 
-**HONOURING** those who heroically struggled to bring freedom and justice to our land:
+**HONOURING**  those who heroically struggled to bring freedom and justice to our land:
 
-**PROUD** of our ethnic, cultural and religious diversity, **and determined** to live in  peace and unity as one indivisible sovereign nation:
+**PROUD**  of our ethnic, cultural and religious diversity, ** and determined **  to live in  peace and unity as one indivisible sovereign nation:
 
 **RESPECTFUL** of the environment, which is our heritage, and determined to sustain it for the benefit of future generations:
 
@@ -22,10 +22,10 @@ We, the people of Kenya:
 **ADOPT, ENACT** and give this Constitution to ourselves and to our future generations.
 
 
-**GOD BLESS KENYA**
+**GOD BLESS KENYA** { style="text-align:center" }
 
 
-## Chapter One: Sovereignty of the People and Supremacy of this Constitution
+# Chapter One: Sovereignty of the People and Supremacy of this Constitution
 
 ### 1. Sovereignty of the people.
 
@@ -48,30 +48,30 @@ We, the people of Kenya:
 5. The general rules of international law shall form part of the law of Kenya.
 6. Any treaty or convention ratified by Kenya shall form part of the law of Kenya under this Constitution.
 
-**3. Defence of this Constitution.**
+### 3. Defence of this Constitution.
 
 1. Every person has an obligation to respect, uphold and defend this Constitution.
 2. Any attempt to establish a government otherwise than in compliance with this Constitution is unlawful.
 
 
-## Chapter Two: The Republic
+# Chapter Two: The Republic
 
-**4. Declaration of the Republic.**
+### 4. Declaration of the Republic.
 
 1. Kenya is a sovereign Republic.
 2. The Republic of Kenya shall be a multi-party democratic State founded on the national values and principles of governance referred to in Article 10.
 
-**5. Territory of Kenya.**
+### 5. Territory of Kenya.
 
 Kenya consists of the territory and territorial waters comprising Kenya on the effective date, and any additional territory and territorial waters as defined by an Act of Parliament.
 
-**6. Devolution and access to services.**
+### 6. Devolution and access to services.
 
 1. The territory of Kenya is divided into the counties specified  in the First Schedule.
 2. The governments at the national and county levels are distinct and inter-dependent and shall conduct their mutual relations on the basis of consultation and cooperation.
 3. A national State organ shall ensure reasonable access to its services in all parts of the Republic, so far as it is appropriate to do so having regard to the nature of the service.
 
-**7. National, official and other languages.**
+### 7. National, official and other languages.
 
 1. The national language of the Republic is Kiswahili.
 2. The official languages of the Republic are Kiswahili and English.
@@ -79,11 +79,11 @@ Kenya consists of the territory and territorial waters comprising Kenya on the e
   a. promote and protect the diversity of language of the people of Kenya; and  
   b. promote the development and use of indigenous languages, Kenyan Sign language, Braille and other communication formats and technologies accessible to persons with disabilities.
 
-**8. State and Religion.**
+### 8. State and Religion.
 
 There shall be no State religion.
 
-**9. National symbols and national days.**
+### 9. National symbols and national days.
 
 1. The national symbols of the Republic are:  
   a. the national flag;  
@@ -98,7 +98,7 @@ There shall be no State religion.
 4. A national day shall be a public holiday.
 5. Parliament may enact legislation prescribing other public holidays, and providing for observance of public holidays.
 
-**10. National values and principles of governance.**
+### 10. National values and principles of governance.
 
 1. The national values and principles of governance in this Article bind all State organs, State officers, public officers and all persons whenever any of them:
   a. applies or interprets this Constitution;  
@@ -110,7 +110,7 @@ There shall be no State religion.
   c. good governance, integrity, transparency and accountability; and  
   d. sustainable development.
 
-**11. Culture.**
+### 11. Culture.
 
 1. This Constitution recognises culture as the foundation of the nation and as the cumulative civilization of the Kenyan people and nation.
 2. The State shall:  
@@ -122,22 +122,22 @@ There shall be no State religion.
   b. recognise and protect the ownership of indigenous seeds and plant varieties, their genetic and diverse characteristics and their use by the communities of Kenya.
 
 
-## Chapter Three: Citizenship
+# Chapter Three: Citizenship
 
-**12. Entitlements of citizens.**
+### 12. Entitlements of citizens.
 
 1. Every citizen is entitled to:  
   a. the rights, privileges and benefits of citizenship, subject to the limits provided or permitted by this Constitution; and  
   b. a Kenyan passport and any document of registration or identification issued by the State to citizens.  
 2. A passport or other document referred to in clause  1. b. may be denied, suspended or confiscated only in accordance with an Act of Parliament that satisfies the criteria referred to in Article 24.
 
-**13. Retention and acquisition of citizenship.**
+### 13. Retention and acquisition of citizenship.
 
 1. Every person who was a citizen immediately before the effective date retains the same citizenship status as of that date.
 2. Citizenship may be acquired by birth or registration.
 3. Citizenship is not lost through marriage or the dissolution of marriage.
 
-**14. Citizenship by birth.**
+### 14. Citizenship by birth.
 
 1. A person is a citizen by birth if on the day of the person’s birth, whether or not the person is born in Kenya, either the mother or father of the person is a citizen.
 1. applies equally to a person born before the effective date, whether or not the person was born in Kenya, if either the mother
@@ -148,7 +148,7 @@ or father of the person is or was a citizen.
 presumed to be a citizen by birth.
 5. A person who is a Kenyan citizen by birth and who, on the effective date, has ceased to be a Kenyan citizen because the person acquired citizenship of another country, is entitled on application to regain Kenyan citizenship.
 
-**15. Citizenship by registration.**
+### 15. Citizenship by registration.
 
 1. A person who has been married to a citizen for a period of at least seven years is entitled on application to be registered as a citizen.
 2. A person who has been lawfully resident in Kenya for a continuous period of at least seven years, and who satisfies the conditions prescribed by an Act of Parliament, may apply to be registered as a citizen.
@@ -156,11 +156,11 @@ presumed to be a citizen by birth.
 4. Parliament shall enact legislation establishing conditions on which citizenship may be granted to individuals who are citizens of other countries.
 5. This Article applies to a person as from the effective date, but any requirements that must be satisfied before the person is entitled to be registered as a citizen shall be regarded as having been satisfied irrespective of whether the person satisfied them before or after the effective date, or partially before, and partially after, the effective date.
 
-**16. Dual citizenship.**
+### 16. Dual citizenship.
 
 A citizen by birth does not lose citizenship by acquiring the citizenship of another country.
 
-**17. Revocation of citizenship.**
+### 17. Revocation of citizenship.
 
 1. If a person acquired citizenship by registration, the citizenship may be revoked if the person:  
   a. acquired the citizenship by fraud, false representation or concealment of any material fact;  
@@ -174,7 +174,7 @@ A citizen by birth does not lose citizenship by acquiring the citizenship of ano
   b. the nationality or parentage of the person becomes known, and reveals that the person was a citizen of another country; or  
   c. the age of the person becomes known, and reveals that the person was older than eight years when found in Kenya.
 
-**18. Legislation on citizenship.**
+### 18. Legislation on citizenship.
 
 Parliament shall enact legislation:  
 a. prescribing procedures by which a person may become a citizen;  
@@ -185,9 +185,9 @@ e. prescribing procedures for revocation of citizenship;
 f. prescribing the duties and rights of citizens; and  
 g. generally giving effect to the provisions of this Chapter.  
 
-### Part 1-General Provisions Relating to the Bill of Rights
+## Part 1-General Provisions Relating to the Bill of Rights
 
-**19. Rights and fundamental freedoms.**
+### 19. Rights and fundamental freedoms.
 
 1. The Bill of Rights is an integral part of Kenya’s democratic state and is the framework for social, economic and cultural policies.
 2. The purpose of recognising and protecting human rights and fundamental freedoms is to preserve the dignity of individuals and communities and to promote social justice and the realisation of the potential of all human beings.
@@ -196,7 +196,7 @@ g. generally giving effect to the provisions of this Chapter.
   b. do not exclude other rights and fundamental freedoms not in the Bill of Rights, but recognised or conferred by law, except to the extent that they are inconsistent with this Chapter; and  
   c. are subject only to the limitations contemplated in this Constitution.
 
-**20. Application of Bill of Rights.**
+### 20. Application of Bill of Rights.
 
 1. The Bill of Rights applies to all law and binds all State organs and all persons.
 2. Every person shall enjoy the rights and fundamental freedoms in the Bill of Rights to the greatest extent consistent with the nature of the right or fundamental freedom.
@@ -211,7 +211,7 @@ g. generally giving effect to the provisions of this Chapter.
   b. in allocating resources, the State shall give priority to ensuring the widest possible enjoyment of the right or fundamental freedom having regard to prevailing circumstances, including the vulnerability of particular groups or individuals; and  
   c. the court, tribunal or other authority may not interfere with a decision by a State organ concerning the allocation of available resources, solely on the basis that it would have reached a different conclusion.
 
-**21. Implementation of rights and fundamental freedoms.**
+### 21. Implementation of rights and fundamental freedoms.
 
   1. It is a fundamental duty of the State and every State organ
 to observe, respect, protect, promote and fulfil the rights and
@@ -231,7 +231,7 @@ ethnic, religious or cultural communities.
 international obligations in respect of human rights and fundamental
 freedoms.
 
-**22.** Enforcement of Bill of Rights.
+### 22. Enforcement of Bill of Rights.
 
   1. Every person has the right to institute court proceedings
 claiming that a right or fundamental freedom in the Bill of Rights has
@@ -275,7 +275,7 @@ the leave of the court, appear as a friend of the court.
 right of any person to commence court proceedings under this Article,
 and to have the matter heard and determined by a court.
 
-**23.** Authority of courts to uphold and enforce the Bill of Rights.
+### 23. Authority of courts to uphold and enforce the Bill of Rights.
 
   1. The High Court has jurisdiction, in accordance with Article
 165, to hear and determine applications for redress of a denial,
@@ -306,7 +306,7 @@ Rights and is not justified under Article 24;
 
 
 
-**24.**   Limitation of rights and fundamental freedoms.
+### 24.   Limitation of rights and fundamental freedoms.
 
 1. A right or fundamental freedom in the Bill of Rights shall
 not be limited except by law, and then only to the extent that the
@@ -333,7 +333,7 @@ fundamental freedom-
 
       a. in the case of a provision enacted or amended on or after the
 effective date, is not valid unless the legislation specifically
-expresses the**intention to limit that right or fundamental freedom, and
+expresses the intention to limit that right or fundamental freedom, and
 the nature and extent of the limitation;
 
       b. shall not be construed as limiting the right or fundamental
@@ -369,7 +369,7 @@ National Police Service-
 
       f. Article 49-Rights of arrested persons.
 
-**25.** Fundamental Rights and freedoms that may not be limited.
+### 25. Fundamental Rights and freedoms that may not be limited.
 
 Despite any other provision in this Constitution, the following
 rights and fundamental freedoms shall not be limited-
@@ -383,9 +383,9 @@ rights and fundamental freedoms shall not be limited-
 
   d. the right to an order of *habeas corpus.
 
-### Part 2-Rights and Fundamental Freedoms
+## Part 2-Rights and Fundamental Freedoms
 
-**26.** Right to life.
+### 26. Right to life.
 
   1. Every person has the right to life.
 
@@ -400,7 +400,7 @@ or health of the mother is in danger, or if permitted by any other
 written law.
 
 
-**27.** Equality and freedom from discrimination.
+### 27. Equality and freedom from discrimination.
 
   1. Every person is equal before the law and has the right to
 equal protection and equal benefit of the law.
@@ -434,12 +434,12 @@ shall take legislative and other measures to implement the principle
 that not more than two-thirds of the members of elective or appointive
 bodies shall be of the same gender.
 
-**28.** Human dignity.
+### 28. Human dignity.
 
  Every person has inherent dignity and the right to have that
 dignity respected and protected.
 
-**29.** Freedom and security of the person.
+### 29. Freedom and security of the person.
 
  Every person has the right to freedom and security of the
 person, which includes the right not to be-
@@ -459,13 +459,13 @@ psychological;
 
   f. treated or punished in a cruel, inhuman or degrading manner.
 
-**30.** Slavery, servitude and forced labour.
+### 30. Slavery, servitude and forced labour.
 
   1. A person shall not be held in slavery or servitude.
 
   2. A person shall not be required to perform forced labour.
 
-**31.** Privacy.
+### 31. Privacy.
 
 Every person has the right to privacy, which includes the right
 not to have-
@@ -479,7 +479,7 @@ unnecessarily required or revealed; or
 
   d. the privacy of their communications infringed.
 
-**32.** Freedom of conscience, religion, belief and opinion.
+### 32. Freedom of conscience, religion, belief and opinion.
 
   1. Every person has the right to freedom of conscience,
 religion, thought, belief and opinion.
@@ -496,7 +496,7 @@ or religion.
   4. A person shall not be compelled to act, or engage in any act, that
 is contrary to the person’s belief or religion.
 
-**33.** Freedom of expression.
+### 33. Freedom of expression.
 
   1. Every person has the right to freedom of expression, which
 includes-
@@ -526,7 +526,7 @@ includes-
   3. In the exercise of the right to freedom of expression, every person
 shall respect the rights and reputation of others.
 
-**34.** Freedom of the media.
+### 34. Freedom of the media.
 
   1. Freedom and independence of electronic, print and all other
 types of media is guaranteed, but does not extend to any expression
@@ -571,7 +571,7 @@ commercial interests;
       c. set media standards and regulate and monitor compliance with those
 standards.
 
-**35.** Access to information.
+### 35. Access to information.
 
   1. Every citizen has the right of access to-
 
@@ -585,7 +585,7 @@ or misleading information that affects the person.
 
   3. The State shall publish and publicise any important information affecting the nation.
 
-**36.** Freedom of association.
+### 36. Freedom of association.
 
   1. Every person has the right to freedom of association, which
 includes the right to form, join or participate in the activities of an
@@ -601,13 +601,13 @@ kind shall provide that-
       b. there shall be a right to have a fair hearing before a
 registration is cancelled.
 
-**37.** Assembly, demonstration, picketing and petition.
+### 37. Assembly, demonstration, picketing and petition.
 
 Every person has the right, peaceably and unarmed, to assemble,
 to demonstrate, to picket, and to present petitions to public
 authorities.
 
-**38.** Political rights.
+### 38. Political rights.
 
   1. Every citizen is free to make political choices, which
 includes the right-
@@ -640,7 +640,7 @@ restrictions-
 party of which  the citizen is  a member and, if elected, to hold
 office.
 
-**39.** Freedom of movement and residence.
+### 39. Freedom of movement and residence.
 
   1. Every person has the right to freedom of movement.
 
@@ -649,7 +649,7 @@ office.
   3. Every citizen has the right to enter, remain in and reside anywhere
 in Kenya.
 
-**40.** Protection of right to property.
+### 40. Protection of right to property.
 
   1. Subject to Article 65, every person has the right, either
 individually or in association with others, to acquire and own property-
@@ -695,7 +695,7 @@ property rights of the people of Kenya.
   6. The rights under this Article do not extend to any property that
 has been found to have been unlawfully acquired.
 
-**41.** Labour relations.
+### 41. Labour relations.
 
   1. Every person has the right to fair labour practices.
 
@@ -728,7 +728,7 @@ organisation.
   5. Every trade union, employers’ organisation and employer has the
 right to engage in collective bargaining.
 
-**42.** Environment.
+### 42 Environment.
 
 Every person has the right  to a clean and healthy environment,
 which includes the right-
@@ -740,7 +740,7 @@ which includes the right-
   b. to have obligations relating to the environment fulfilled under
   Article 70.
 
-**43.** Economic and social rights.
+### 43 Economic and social rights.
 
   1. Every person has the right-
 
@@ -764,7 +764,7 @@ quality;
   3. The State shall provide appropriate social security to persons who
 are unable to support themselves and their dependants.
 
-**44.** Language and culture.
+### 44 Language and culture.
 
   1. Every person has the right to use the language, and to
 participate in the cultural life, of the person’s choice.
@@ -780,7 +780,7 @@ and other organs of civil society.
   3. A person shall not compel another person to perform, observe or
 undergo any cultural practice or rite.
 
-**45.** Family.
+### 45 Family.
 
   1. The family is the natural and fundamental unit of society
 and the necessary basis of social order, and shall enjoy the recognition
@@ -802,7 +802,7 @@ personal or family law; and
 adhered to by persons professing a particular religion,to the extent that any such marriages or systems of law are consistent
 with this Constitution.
 
-**46.** Consumer rights.
+### 46 Consumer rights.
 
   1. Consumers have the right-
 
@@ -823,7 +823,7 @@ protection and for fair, honest and decent advertising.
   3. This Article applies to goods and services offered by public
 entities or private persons.
 
-**47.** Fair administrative action.
+### 47 Fair administrative action.
 
   1. Every person has the right to administrative action that is
 expeditious, efficient, lawful, reasonable and procedurally fair.
@@ -840,13 +840,13 @@ appropriate, an independent and impartial tribunal; and
 
       b. promote efficient administration.
 
-**48.** Access to justice.
+### 48 Access to justice.
 
 The State shall ensure access to justice for all persons and, if
 any fee is required, it shall be reasonable and shall not impede access
 to justice.
 
-**49.** Rights of arrested persons.
+### 49 Rights of arrested persons.
 
   1. An arrested person has the right-
 
@@ -883,7 +883,7 @@ be used in evidence against the person;
 offence is punishable by a fine only or by imprisonment for not more
 than six months.
 
-**50.** Fair hearing.
+### 50 Fair hearing.
 
   1. Every person has the right to have any dispute that can be
 resolved by the application of law decided in a fair and public hearing
@@ -983,7 +983,7 @@ vulnerable persons, morality, public order or national security.
   9. Parliament shall enact legislation providing for the protection,
 rights and welfare of victims of offences.
 
-**51.** Rights of persons detained, held in custody or imprisoned.
+### 51 Rights of persons detained, held in custody or imprisoned.
 
   1. A person who is detained, held in custody or imprisoned
 under the law, retains all the rights and fundamental freedoms in the
@@ -1002,9 +1002,9 @@ custody or imprisoned; and
       b. takes into account the relevant international human rights
 instruments.
 
-### Part 3- Specific Application of Rights
+## Part 3- Specific Application of Rights
 
-**52.** Interpretation of this Part.
+### 52 Interpretation of this Part.
 
   1. This Part elaborates certain rights to ensure greater
 certainty as to the application of those rights and fundamental freedoms
@@ -1013,7 +1013,7 @@ to certain groups of persons.
   2. This Part shall not be construed as limiting or qualifying any
 right.
 
-**53.** Children.
+### 53 Children.
 
   1. Every child has the right-
 
@@ -1042,7 +1042,7 @@ detained, to be held-
   2. A child’s best interests are of paramount importance in every
 matter concerning the child.
 
-**54.** Persons with disabilities.
+### 54 Persons with disabilities.
 
   1. A person with any disability is entitled-
 
@@ -1066,7 +1066,7 @@ from the person’s disability.
 principle that at least five percent of the members of the public in
 elective and appointive bodies are persons with disabilities.
 
-**55.** Youth.
+### 55 Youth.
 
 The State shall take measures, including affirmative action
 programmes, to ensure that the youth-
@@ -1080,7 +1080,7 @@ programmes, to ensure that the youth-
 
   d. are protected from harmful cultural practices and exploitation.
 
-**56.** Minorities and marginalised groups.
+### 56 Minorities and marginalised groups.
 
 The State shall put in place affirmative action programmes
 designed to ensure that minorities and marginalised groups- 
@@ -1098,7 +1098,7 @@ designed to ensure that minorities and marginalised groups- 
   e. have reasonable access to water, health services and
   infrastructure.
 
-**57.** Older members of society.
+### 57 Older members of society.
 
  The State shall take measures to ensure the rights of older
 persons-
@@ -1112,9 +1112,9 @@ persons-
   d. to receive reasonable care and assistance from their family and
   the State.
 
-### Part 4-State of Emergency
+## Part 4-State of Emergency
 
-**58.** State of emergency.
+### 58 State of emergency.
 
   1. A state of emergency may be declared only under Article 132 4.d. and only when-
 
@@ -1139,7 +1139,7 @@ emergency-
 
       a. by resolution adopted-
 
-      ​(i) following a public debate in the National**Assembly; and
+      ​(i) following a public debate in the National Assembly; and
 
       ​(ii) by the majorities specified in clause 4.; and
 
@@ -1178,9 +1178,9 @@ other action taken in consequence of any declaration, may not permit or
 authorise the indemnification of the State, or of any person, in respect
 of any unlawful act or omission.
 
-### Part 5- Kenya National Human Rights and Equality Commission
+## Part 5- Kenya National Human Rights and Equality Commission
 
-**59.** Kenya National Human Rights and Equality Commission.
+### 59 Kenya National Human Rights and Equality Commission.
 
   1. There is established the Kenya National Human Rights and
 Equality Commission.           
@@ -1253,9 +1253,9 @@ under that Chapter.
 
 ## CHAPTER FIVE-LAND AND ENVIRONMENT
 
-### Part 1-Land
+## Part 1-Land
 
-**60.** Principles of land policy.
+### 60 Principles of land policy.
 
   1. Land in Kenya shall be held, used and managed in a manner
 that is equitable, efficient, productive and sustainable, and in
@@ -1282,14 +1282,14 @@ Constitution.
 policy developed and reviewed regularly by the national government and
 through legislation.
 
-**61.** Classification of land.
+### 61 Classification of land.
 
   1. All land in Kenya belongs to the people of Kenya
 collectively as a nation, as communities and as individuals.
 
   2. Land in Kenya is classified as public, community or private.
 
-**62.** Public land.
+### 62 Public land.
 
   1. Public land is-
 
@@ -1357,7 +1357,7 @@ Commission.
 terms of an Act of Parliament specifying the nature and terms of that
 disposal or use.
 
-**63.** Community land.
+### 63 Community land.
 
   1. Community land shall vest in and be held by communities
 identified on the basis of ethnicity, culture or similar community of
@@ -1396,7 +1396,7 @@ interest.
 
   5. Parliament shall enact legislation to give effect to this Article.
 
-**64.** Private land.
+### 64 Private land.
 
 Private land consists of -
 
@@ -1406,7 +1406,7 @@ Private land consists of -
 
   c. any other land declared private land under an Act of Parliament.
 
-**65.** Landholding by non-citizens.
+### 65 Landholding by non-citizens.
 
   1. A person who is not a citizen may hold land on the basis of
 leasehold tenure only, and any such lease, however granted, shall not
@@ -1430,7 +1430,7 @@ persons who are citizens.
   4. Parliament may enact legislation to make further provision for the
 operation of this Article.
 
-**66.** Regulation of land use and property.
+### 66 Regulation of land use and property.
 
   1. The State may regulate the use of any land, or any interest
 in or right over any land, in the interest of defence, public safety,
@@ -1439,7 +1439,7 @@ public order, public morality, public health, or land use planning.
   2. Parliament shall enact legislation ensuring that investments in
 property benefit local communities and their economies.
 
-**67.** National Land Commission.
+### 67 National Land Commission.
 
   1. There is established the National Land Commission.
 
@@ -1472,7 +1472,7 @@ planning throughout the country.
   3. The National Land Commission may perform any other functions
 prescribed by national legislation.
 
-**68.** Legislation on land.
+### 68 Legislation on land.
 
 Parliament shall-
 
@@ -1500,14 +1500,14 @@ Parliament shall-
 
   ​(vi) to protect the dependants of deceased persons holding interests in
   any land, including the interests of spouses in actual occupation of
-  land;**and
+  land; and
 
   ​(vii) to provide for any other matter necessary to give effect to the
   provisions of this Chapter.
 
-### Part 2-Environment and Natural Resources
+## Part 2-Environment and Natural Resources
 
-**69.** Obligations in respect of the environment.
+### 69 Obligations in respect of the environment.
 
   1. The State shall-
 
@@ -1539,7 +1539,7 @@ the people of Kenya.
 persons to protect and conserve the environment and ensure ecologically
 sustainable development and use of natural resources.
 
-**70.** Enforcement of environmental rights.
+### 70 Enforcement of environmental rights.
 
   1. If a person alleges that a right to a clean and healthy
 environment recognised and protected under Article 42 has been, is being
@@ -1562,7 +1562,7 @@ to a clean and healthy environment.
   3. For the purposes of this Article, an applicant does not have to
 demonstrate that any person has incurred loss or suffered injury.
 
-**71.** Agreements relating to natural resource.
+### 71 Agreements relating to natural resource.
 
   1. A transaction is subject to ratification by Parliament if it-
 
@@ -1575,7 +1575,7 @@ exploitation of any natural resource of Kenya; and
   2. Parliament shall enact legislation providing for the classes of
 transactions subject to ratification under clause   1..
 
-**72.** Legislation relating to the environment.
+### 72 Legislation relating to the environment.
 
  Parliament shall enact legislation to give full effect to the
 provisions of this Part.
@@ -1584,7 +1584,7 @@ provisions of this Part.
 
 ## CHAPTER SIX-LEADERSHIP AND INTEGRITY
 
-**73.** Responsibilities of leadership.
+### 73 Responsibilities of leadership.
 
   1. Authority assigned to a State officer-
 
@@ -1622,14 +1622,14 @@ by-
 
       e. discipline and commitment in service to the people.
 
-**74.** Oath of office of State officers.
+### 74 Oath of office of State officers.
 
  Before assuming a State office, acting in a State office, or
 performing any functions of a State office, a person shall take and
 subscribe the oath or affirmation of office, in the manner and form
 prescribed by the Third Schedule or under an Act of Parliament.
 
-**75.** Conduct of State officers.
+### 75 Conduct of State officers.
 
   1. A State officer shall behave, whether in public and official
 life, in private life, or in association with other persons, in a manner
@@ -1655,7 +1655,7 @@ paragraph  a., be dismissed or otherwise removed from office.
 for a contravention of the provisions specified in clause   2. is
 disqualified from holding any other State office.
 
-**76.** Financial probity of State officers.
+### 76 Financial probity of State officers.
 
   1. A gift or donation to a State officer on a public or
 official occasion is a gift or donation to the Republic and shall be
@@ -1669,7 +1669,7 @@ Act of Parliament; or
       b. seek or accept a personal loan or benefit in circumstances that
 compromise the integrity of the State officer.
 
-**77.** Restriction on activities of State officers.
+### 77 Restriction on activities of State officers.
 
   1. A full-time State officer shall not participate in any other
 gainful employment.
@@ -1690,7 +1690,7 @@ chairperson, director or employee of-
   4. A retired State officer shall not receive remuneration from public
 funds other than as contemplated in clause  3..
 
-**78.** Citizenship and leadership.
+### 78 Citizenship and leadership.
 
   1. A person is not eligible for election or appointment to a
 State office unless the person is a citizen of Kenya.
@@ -1705,7 +1705,7 @@ dual citizenship.
       b. any person who has been made a citizen of another country by
 operation of that country’s law, without ability to opt out.
 
-**79.** Legislation to establish the ethics and anti-corruption commission.
+### 79 Legislation to establish the ethics and anti-corruption commission.
 
  Parliament shall enact legislation to establish an independent
 ethics and anti-corruption commission, which shall be and have the
@@ -1713,7 +1713,7 @@ status and powers of a commission under Chapter Fifteen, for purposes of
 ensuring compliance with, and enforcement of, the provisions of this
 Chapter.
 
-**80.** Legislation on leadership.
+### 80 Legislation on leadership.
 
 Parliament shall enact legislation-
 
@@ -1735,9 +1735,9 @@ Parliament shall enact legislation-
 
 ## CHAPTER SEVEN-REPRESENTATION OF THE PEOPLE
 
-### Part 1-Electoral System and Process
+## Part 1-Electoral System and Process
 
-**81.** General principles for the electoral system.
+### 81 General principles for the electoral system.
 
 The electoral system shall comply with the following principles-
 
@@ -1768,7 +1768,7 @@ The electoral system shall comply with the following principles-
 
 
 
-**82**. Legislation on elections.
+### 82### . Legislation on elections.
 
   1. Parliament shall enact legislation to provide for-
 
@@ -1799,7 +1799,7 @@ The electoral system shall comply with the following principles-
 
       ​(ii) other persons or groups with special needs.
 
-**83.** Registration as a voter. 
+### 83 Registration as a voter. 
 
   1. A person qualifies for registration as a voter at elections
 or referenda if the person-
@@ -1821,11 +1821,11 @@ deny, an eligible citizen the right to vote or stand for election.
 Candidates for election and political parties to comply with code of
 conduct.
 
-**84.** In every election, all candidates and all political parties
+### 84 In every election, all candidates and all political parties
 shall comply with the code of conduct prescribed by the Independent
 Electoral and Boundaries Commission.
 
-**85.** Eligibility to stand as an independent candidate.
+### 85 Eligibility to stand as an independent candidate.
 
 Any person is eligible to stand as an independent candidate for
 election if the person-
@@ -1841,7 +1841,7 @@ b. satisfies the requirements of-
 (ii) Article 193 (1) (c) (ii), in the case of a candidate for election to a county assembly.
 
 
-**86.** Voting.
+### 86 Voting.
 
  At every election, the Independent Electoral and Boundaries
 Commission shall ensure that-
@@ -1859,7 +1859,7 @@ Commission shall ensure that-
   malpractice are put in place, including the safekeeping of election
   materials.
 
-**87.** Electoral disputes.
+### 87 Electoral disputes.
 
   1. Parliament shall enact legislation to establish mechanisms
 for timely settling of electoral disputes.
@@ -1872,9 +1872,9 @@ Commission.
   3. Service of a petition may be direct or by advertisement in a
 newspaper with national circulation.
 
-### Part 2-Independent Electoral and Boundaries Commission and Delimitation of Electoral Units
+## Part 2-Independent Electoral and Boundaries Commission and Delimitation of Electoral Units
 
-**88.** Independent Electoral and Boundaries Commission.
+### 88 Independent Electoral and Boundaries Commission.
 
   1. There is established the Independent Electoral and
 Boundaries Commission.
@@ -1893,7 +1893,7 @@ stood for election as-
 
   3. A member of the Commission shall not hold another public office.
 
-  4. The Commission is responsible for**conducting or supervising
+  4. The Commission is responsible for conducting or supervising
 referenda and elections to any elective body or office established by
 this Constitution, and any other elections as prescribed by an Act of
 Parliament and, in particular, for-
@@ -1930,7 +1930,7 @@ Article 82  1.  b. relating to nomination of candidates by parties.
   5. The Commission shall exercise its powers and perform its functions
 in accordance with this Constitution and national legislation.
 
-**89.** Delimitation of electoral units.
+### 89 Delimitation of electoral units.
 
   1. There shall be two hundred and ninety constituencies for the
 purposes of the election of the members of the National Assembly
@@ -1985,7 +1985,7 @@ or lesser than the population quota by a margin of not more than-
   12. For the purposes of this Article, 'population quota' means the number obtained by dividing the number of inhabitants of Kenya by the number of constituencies or wards, as applicable, into which Kenya is divided under this Article.
 
 
-**90.** Allocation of party list seats.
+### 90 Allocation of party list seats.
 
   1. Elections for the seats in Parliament provided for under Articles 97(1) (c) and 98 (1) (b), (c) and (d), and for the members of county assemblies under 177 (1) (b) and (c), shall be on the basis of proportional representation by use of party lists.
 
@@ -2004,13 +2004,13 @@ reflects the regional and ethnic diversity of the people of Kenya.
 political parties in proportion to the total number of seats won by
 candidates of the political party at the general election.
 
-### Part 3-Political Parties
+## Part 3-Political Parties
 
-**91.** Basic requirements for political parties.
+### 91 Basic requirements for political parties.
 
   1. Every political party shall-
 
-      a. have a national character**as prescribed by an Act of Parliament;
+      a. have a national character as prescribed by an Act of Parliament;
 
       b. have a democratically elected governing body;
 
@@ -2050,7 +2050,7 @@ organisation;
 Parliament, accept or use public resources to promote its interests or
 its candidates in elections.
 
-**92.** Legislation on political parties.
+### 92 Legislation on political parties.
 
  Parliament shall enact legislation to provide for-
 
@@ -2081,9 +2081,9 @@ its candidates in elections.
 
 ## CHAPTER EIGHT-THE LEGISLATURE
 
-### Part 1-Establishment and Role of Parliament
+## Part 1-Establishment and Role of Parliament
 
-**93.** Establishment of Parliament.
+### 93 Establishment of Parliament.
 
   1. There is established a Parliament of Kenya, which shall
 consist of the National Assembly and the Senate.
@@ -2091,7 +2091,7 @@ consist of the National Assembly and the Senate.
   2. The National Assembly and the Senate shall perform their respective
 functions in accordance with this Constitution.
 
-**94.** Role of Parliament.
+### 94 Role of Parliament.
 
   1. The legislative authority of the Republic is derived from
 the people and, at the national level, is vested in and exercised by
@@ -2118,7 +2118,7 @@ conferred, the limits of the authority, the nature and scope of the law
 that may be made, and the principles and standards applicable to the law
 made under the authority.
 
-**95.** Role of the National Assembly.
+### 95 Role of the National Assembly.
 
   1. The National Assembly represents the people of the
 constituencies and special interests in the National Assembly.
@@ -2150,7 +2150,7 @@ them from office; and
   6. The National Assembly approves declarations of war and extensions
 of states of emergency.
 
-**96.** Role of the Senate.
+### 96 Role of the Senate.
 
   1. The Senate represents the counties, and serves to protect
 the interests of the counties and their governments.
@@ -2167,9 +2167,9 @@ national revenue allocated to the county governments.
 considering and determining any resolution to remove the President or
 Deputy President from office in accordance with Article 145.
 
-### Part 2-Composition and Membership of Parliament
+## Part 2-Composition and Membership of Parliament
 
-**97.** Membership of the National Assembly.
+### 97 Membership of the National Assembly.
 
   1. The National Assembly consists of-
 
@@ -2189,7 +2189,7 @@ youth, persons with disabilities and workers; and
   2. Nothing in this Article shall be construed as excluding any person
 from contesting an election under clause  1.      a..
 
-**98.** Membership of the Senate.
+### 98 Membership of the Senate.
 
   1. The Senate consists of-
 
@@ -2205,7 +2205,7 @@ clause      a. in accordance with Article 90;
       d. two members, being one man and one woman, representing persons
 with disabilities; and
 
-      e. the Speaker, who**shall be an *ex officio* member.
+      e. the Speaker, who shall be an *ex officio* member.
 
   2. Nothing in this Article shall be construed as excluding any person from contesting an election under clause (1) (a).
 
@@ -2214,7 +2214,7 @@ from contesting an election under clause  1.      a..
 
 
 
-**99.** Qualifications and disqualifications for election as member of
+### 99 Qualifications and disqualifications for election as member of
 Parliament.
 
   1. Unless disqualified under clause   2., a person is eligible
@@ -2263,7 +2263,7 @@ Six.
 
   3. Nothing in this Article shall be construed as excluding any person from contesting an election under clause (1) (a).
 
-**100.** Promotion of representation of marginalised groups.
+### 100 Promotion of representation of marginalised groups.
 
  Parliament shall enact legislation to promote the
 representation in Parliament of-
@@ -2278,7 +2278,7 @@ representation in Parliament of-
 
   e. marginalised communities.
 
-**101.** Election of members of Parliament.
+### 101 Election of members of Parliament.
 
   1. A general election of members of Parliament shall be held
 on the second Tuesday in August in every fifth year.
@@ -2306,7 +2306,7 @@ of the vacancy, subject to clause 5.
   4. shall not be filled within the
 three months immediately before a general election.
 
-**102.** Term of Parliament.
+### 102 Term of Parliament.
 
   1. The term of each House of Parliament expires on the date of
 the next general election.
@@ -2318,7 +2318,7 @@ at a time.
 
   3. The term of Parliament shall not be extended under clause (2) for a total of more than twelve months.
 
-**103.** Vacation of office of member of Parliament.
+### 103 Vacation of office of member of Parliament.
 
   1. The office of a member of Parliament becomes vacant-
 
@@ -2351,7 +2351,7 @@ under Article 99  2.      d. to       h..
 under which a member of a political party shall be deemed, for the
 purposes of clause  1.      e., to have resigned from the party. 
 
-**104.** Right of recall.
+### 104 Right of recall.
 
   1. The electorate under Articles 97 and 98 have the right to
 recall the member of Parliament representing their constituency before
@@ -2360,7 +2360,7 @@ the end of the term of the relevant House of Parliament.
   2. Parliament shall enact legislation to provide for the grounds on
 which a member may be recalled and the procedure to be followed.
 
-**105.** Determination of questions of membership.
+### 105 Determination of questions of membership.
 
   1. The High Court shall hear and determine any question
 whether-
@@ -2375,11 +2375,11 @@ six months of the date of lodging the petition.
   3. Parliament shall enact legislation to give full effect to this
 Article.
 
-### Part 3-Offices of Parliament
+## Part 3-Offices of Parliament
 
 
 
-**106** Speakers and Deputy Speakers of Parliament.
+### 106  Speakers and Deputy Speakers of Parliament.
 
   1. There shall be-
 
@@ -2405,7 +2405,7 @@ votes of at least two-thirds of its members; or
       d. if the office holder resigns from office in a letter addressed to
 the relevant House.
 
-**107.** Presiding in Parliament.
+### 107 Presiding in Parliament.
 
   1. At any sitting of a House of Parliament-
 
@@ -2419,7 +2419,7 @@ member of the House elected by the House presides.
   2. At a joint sitting of the Houses of Parliament, the Speaker of the
 National Assembly shall preside, assisted by the Speaker of the Senate.
 
-**108.** Party leaders.
+### 108 Party leaders.
 
   1. There shall be a leader of the majority party and a leader
 of the minority party.
@@ -2442,10 +2442,10 @@ Assembly-
       c. the leader of the minority party.
 
 
-### Part 4-Procedures for Enacting Legislation
+## Part 4-Procedures for Enacting Legislation
 
 
-**109**. Exercise of legislative powers.
+### 109 Exercise of legislative powers.
 
   1. Parliament shall exercise its legislative power through
 Bills passed by Parliament and assented to by the President.
@@ -2466,7 +2466,7 @@ National Assembly in accordance with Article 114.
 
 
 
-**110**. Bills concerning county government.
+### 110 Bills concerning county government.
 
   1. In this Constitution, "a Bill concerning county government"
 means-
@@ -2505,7 +2505,7 @@ Speaker of the other House.
 House in which the Bill originated shall, within seven days, refer the
 Bill to the President for assent.
 
-**111.** Special Bills concerning county governments.
+### 111 Special Bills concerning county governments.
 
   1. A special Bill concerning a county government shall proceed
 in the same manner as an ordinary Bill concerning county government,
@@ -2522,7 +2522,7 @@ President for assent.
 
 
 
-**112**. Ordinary Bills concerning county governments.
+### 112 Ordinary Bills concerning county governments.
 
   1. If one House passes an ordinary Bill concerning counties,
 and the second House-
@@ -2542,7 +2542,7 @@ the Bill to the President within seven days for assent; or
       b. rejects the Bill as amended, the Bill  shall be  referred to a
 mediation committee under Article 113.
 
-**113.** Mediation committees.
+### 113 Mediation committees.
 
   1. If a Bill is referred to a mediation committee under
 Article 112, the Speakers of both Houses shall appoint a mediation
@@ -2560,7 +2560,7 @@ the Bill to the President within seven days for assent.
 within thirty days, or if a version proposed by the committee is
 rejected by either House, the Bill is defeated.
 
-**114.** Money Bills.
+### 114 Money Bills.
 
   1. A money Bill may not deal with any matter other than those
 listed in the definition of " a money Bill" in clause   3..
@@ -2589,7 +2589,7 @@ money;
   3., "tax", "public money", and "loan" do not include any
 tax, public money or loan raised by a county.
 
-**115.** Presidential assent and referral.
+### 115 Presidential assent and referral.
 
   1. Within fourteen days after receipt of a Bill, the President
 shall-
@@ -2633,7 +2633,7 @@ the period prescribed in clause   1., or assent to it under   5.      b.,
 the Bill shall be taken to have been assented to on the expiry of that
 period.
 
-**116.** Coming into force of laws.
+### 116 Coming into force of laws.
 
   1. A Bill passed by Parliament and assented to by the
 President shall be published in the *Gazette* as an Act of Parliament
@@ -2649,9 +2649,9 @@ general election of members of Parliament.
 
   4. Clause (3) does not apply to an interest that members of Parliament have as members of the public.
 
-### Part 5-Parliament’s General Procedures and Rules
+## Part 5-Parliament’s General Procedures and Rules
 
-**117.** Powers, privileges and immunities.
+### 117 Powers, privileges and immunities.
 
   1. There shall be freedom of speech and debate in Parliament.
 
@@ -2661,7 +2661,7 @@ privileges and immunities of Parliament, its committees, the leader of
 the majority party, the leader of the minority party, the chairpersons
 of committees and members.
 
-**118.** Public access and participation.
+### 118 Public access and participation.
 
   1. Parliament shall-
 
@@ -2675,7 +2675,7 @@ and other business of Parliament and its committees.
 sitting unless in exceptional circumstances the relevant Speaker has
 determined that there are justifiable reasons for the exclusion.
 
-**119.** Right to petition Parliament.
+### 119 Right to petition Parliament.
 
   1. Every person has a right to petition Parliament to consider
 any matter within its authority, including to enact, amend or repeal any
@@ -2684,7 +2684,7 @@ legislation.
   2. Parliament shall make provision for the procedure for the exercise
 of this right.
 
-**120.** Official languages of Parliament.
+### 120 Official languages of Parliament.
 
   1. The official languages of Parliament shall be Kiswahili,
 English and Kenyan Sign language, and the business of Parliament may be
@@ -2693,7 +2693,7 @@ conducted in English, Kiswahili and Kenyan Sign language.
   2. In case of a conflict between different language versions of an Act
 of Parliament, the version signed by the President shall prevail.
 
-**121.** Quorum.
+### 121 Quorum.
 
  The quorum of Parliament shall be––
 
@@ -2701,7 +2701,7 @@ of Parliament, the version signed by the President shall prevail.
 
   b. fifteen members, in the case of the Senate.
 
-**122.** Voting in Parliament.
+### 122 Voting in Parliament.
 
   1. Except as otherwise provided in this Constitution, any
 question proposed for decision in either House of Parliament shall be
@@ -2721,7 +2721,7 @@ pecuniary interest.
 purpose of voting in that House, the Speaker of that House shall not be
 counted as a member.
 
-**123.** Decisions of Senate.
+### 123 Decisions of Senate.
 
   1. On election, all the members of the Senate who were
 registered as voters in a particular county shall collectively
@@ -2750,7 +2750,7 @@ consulting the other members of the delegation; and
       c. the matter is carried only if it is supported by a majority of all
 the delegations.
 
-**124.** Committees and Standing Orders.
+### 124 Committees and Standing Orders.
 
   1. Each House of Parliament may establish committees, and
 shall make Standing Orders for the orderly conduct of its proceedings,
@@ -2780,7 +2780,7 @@ approval; and
       c. the proceedings of the committee and the House shall be  open to
 the public.
 
-**125.** Power to call for evidence.
+### 125 Power to call for evidence.
 
   1. Either House of Parliament, and any of its committees, has
 power to summon any person to appear before it for the purpose of giving
@@ -2794,9 +2794,9 @@ evidence or providing information.
 
       c. to issue a commission or request to examine witnesses abroad.
 
-### Part 6-Miscellaneous
+## Part 6-Miscellaneous
 
-**126.** Location of sittings of Parliament.
+### 126 Location of sittings of Parliament.
 
   1. A sitting of either House may be held at any place within
 Kenya and may commence at any time that the House appoints.
@@ -2805,7 +2805,7 @@ Kenya and may commence at any time that the House appoints.
 *Gazette*, shall appoint the place and date for the first sitting of the
 new House, which shall be not more than thirty days after the election.
 
-**127.** Parliamentary Service Commission.
+### 127 Parliamentary Service Commission.
 
   1. There is established the Parliamentary Service Commission.
 
@@ -2872,7 +2872,7 @@ programmes to promote the ideals of parliamentary democracy; and
 
       ​(ii) prescribed by national legislation.
 
-**128.** Clerks and staff of Parliament.
+### 128 Clerks and staff of Parliament.
 
   1. There shall be a Clerk for each House of Parliament,
 appointed by the Parliamentary Service Commission with the approval of
@@ -2885,9 +2885,9 @@ the Clerks shall be offices in the Parliamentary Service.
 
 ## CHAPTER NINE-THE EXECUTIVE
 
-### Part 1-Principles and Structure of the National Executive
+## Part 1-Principles and Structure of the National Executive
 
-**129.** Principles of executive authority.
+### 129 Principles of executive authority.
 
   1. Executive authority derives from the people of Kenya and
 shall be exercised in accordance with this Constitution.
@@ -2896,7 +2896,7 @@ shall be exercised in accordance with this Constitution.
 the principle of service to the people of Kenya, and for their
 well-being and benefit.
 
-**130.** The National Executive.
+### 130 The National Executive.
 
   1. The national executive of the Republic comprises the
 President, the Deputy President and the rest of the Cabinet.
@@ -2904,9 +2904,9 @@ President, the Deputy President and the rest of the Cabinet.
   2. The composition of the national executive shall reflect the
 regional and ethnic diversity of the people of Kenya.
 
-### Part 2-The President and Deputy President
+## Part 2-The President and Deputy President
 
-**131.** Authority of the President.
+### 131 Authority of the President.
 
   1. The President-
 
@@ -2937,7 +2937,7 @@ the rule of law.
 
   3. The President shall not hold any other State or public office.
 
-**132.** Functions of the President.
+### 132 Functions of the President.
 
   1. The President shall-
 
@@ -3009,7 +3009,7 @@ Commission;
 the Republic are fulfilled through the actions of the relevant Cabinet
 Secretaries.
 
-**133.** Power of mercy.
+### 133 Power of mercy.
 
   1. On the petition of any person, the President may exercise a
 power of mercy in accordance with the advice of the Advisory Committee
@@ -3048,7 +3048,7 @@ formulating its advice.
 victims of the offence in respect of which it is considering making
 recommendations to the President*.*
 
-**134.** Exercise of presidential powers during temporary incumbency.         
+### 134 Exercise of presidential powers during temporary incumbency.         
 
   1. A person who holds the office of President or who is
 authorised in terms of this Constitution to exercise the powers of the
@@ -3080,13 +3080,13 @@ assumes office; or
       f. the authority to confer honours in the name of the people and the
       Republic.
 
-**135.** Decisions of the President.
+### 135 Decisions of the President.
 
  A decision of the President in the performance of any function
 of the President under this Constitution shall be in writing and shall
 bear the seal and signature of the President.
 
-**136.** Election of the President.
+### 136 Election of the President.
 
   1. The President shall be elected by registered voters in a
 national election conducted in accordance with this Constitution and any
@@ -3099,7 +3099,7 @@ being the second Tuesday in August, in every fifth year; or
 
       b. in the circumstances contemplated in Article 146.
 
-**137.** Qualifications and disqualifications for election as President.
+### 137 Qualifications and disqualifications for election as President.
 
   1. A person qualifies for nomination as a presidential
 candidate if the person-
@@ -3130,7 +3130,7 @@ office.
 
       c. a member of Parliament.
 
-**138.** Procedure at presidential election.
+### 138 Procedure at presidential election.
 
   1. If only one candidate for President is nominated, that
 candidate shall be declared elected.
@@ -3198,7 +3198,7 @@ President, dies before being declared elected as President.
       b. deliver a written notification of the result to the Chief Justice 
       and the incumbent President.
 
-**139.** Death before assuming office.
+### 139 Death before assuming office.
 
   1. If a President-elect dies after being declared elected as
 President, but before assuming office-
@@ -3224,7 +3224,7 @@ sworn-in; and
       b. a fresh presidential election shall be conducted within sixty days
 after the second death.
 
-**140.** Questions as to validity of presidential election.
+### 140 Questions as to validity of presidential election.
 
   1. A person may file a petition in the Supreme Court to
 challenge the election of the President-elect within seven days after
@@ -3235,10 +3235,10 @@ the date of the declaration of the results of the presidential election.
 decision shall be final.
 
   3. If the Supreme Court determines the election of the President-elect
-to be invalid, a fresh election shall be held within**sixty days after
+to be invalid, a fresh election shall be held within sixty days after
 the determination.
 
-**141.** Assumption of office of President.
+### 141 Assumption of office of President.
 
   1. The swearing in of the President-elect shall be in public
 before the Chief Justice, or, in the absence of the Chief Justice, the
@@ -3263,7 +3263,7 @@ Schedule.
   4. Parliament shall by legislation provide for the procedure and
 ceremony for the swearing-in of a President-elect.
 
-**142.** Term of office of President.
+### 142 Term of office of President.
 
   1. The President shall hold office for a term beginning on the
 date on which the President was sworn in, and ending when the person
@@ -3273,7 +3273,7 @@ in.
   2. A person shall not hold office as President for more than two
 terms.
 
-**143.** Protection from legal proceedings.
+### 143 Protection from legal proceedings.
 
   1. Criminal proceedings shall not be instituted or continued
 in any court against the President or a person performing the functions
@@ -3294,7 +3294,7 @@ calculating the period of time prescribed by that law.
 to a crime for which the President may be prosecuted under any treaty to
 which Kenya is party and which prohibits such immunity.
 
-**144.** Removal of President on grounds of incapacity.
+### 144 Removal of President on grounds of incapacity.
 
   1. A member of the National Assembly, supported by at least a
 quarter of all the members, may move a motion for the investigation of
@@ -3356,7 +3356,7 @@ on whether to ratify the report.
 favour of ratifying the report, the President shall cease to hold
 office.
 
-**145.** Removal of President by impeachment.
+### 145 Removal of President by impeachment.
 
   1. A member of the National Assembly, supported by at least a
 third of all the members, may move a motion for the impeachment of the
@@ -3413,7 +3413,7 @@ President an opportunity to be heard, vote on the impeachment charges.
   7. If at least two-thirds of all the members of the Senate vote to
 uphold any impeachment charge, the President shall cease to hold office.
 
-**146.** Vacancy in the office of President.
+### 146 Vacancy in the office of President.
 
   1. The office of President shall become vacant if the holder
 of the office-
@@ -3449,7 +3449,7 @@ of the office-
 
       b. not to have served a term of office as President, in any other case.
 
-**147.** Functions of the Deputy President.
+### 147 Functions of the Deputy President.
 
   1. The Deputy President shall be the principal assistant of
 the President and shall deputise for the President in the execution of
@@ -3466,7 +3466,7 @@ President decides, the Deputy President shall act as the President.
   4. The Deputy President shall not hold any other State or public
 office.
 
-**148.** Election and swearing in of Deputy President.
+### 148 Election and swearing in of Deputy President.
 
   1. Each candidate in a presidential election shall nominate a
 person who is qualified for nomination for election as President, as a
@@ -3516,7 +3516,7 @@ delivered.
   8. A person shall not hold office as Deputy President for more than
 two terms.
 
-**149.** Vacancy in the office of Deputy President.
+### 149 Vacancy in the office of Deputy President.
 
   1. Within fourteen days after a vacancy in the office of
 Deputy President arises, the President shall nominate a person to fill
@@ -3533,7 +3533,7 @@ within sixty days after receiving it.
       b. not to have served a term of office as Deputy President, in any
       other case.
 
-**150.** Removal of Deputy President.
+### 150 Removal of Deputy President.
 
   1. The Deputy President may be removed from office-
 
@@ -3554,7 +3554,7 @@ within sixty days after receiving it.
 the President shall apply, with the necessary modifications, to the
 removal of the Deputy President.
 
-**151.** Remuneration and benefits of President and Deputy President.
+### 151 Remuneration and benefits of President and Deputy President.
 
   1. The remuneration and benefits payable to the President and
 the Deputy President shall be a charge on the Consolidated Fund.
@@ -3568,9 +3568,9 @@ Deputy President, the facilities available to and the privileges enjoyed
 by them, shall not be varied to their disadvantage during their
 lifetime.
 
-### Part 3-The Cabinet
+## Part 3-The Cabinet
 
-**152.** Cabinet.
+### 152 Cabinet.
 
   1. The Cabinet consists of-
 
@@ -3649,7 +3649,7 @@ before the select committee during its investigations.
 
       b. the President shall dismiss the Cabinet Secretary.
 
-**153.** Decisions, responsibility and accountability of the Cabinet.
+### 153 Decisions, responsibility and accountability of the Cabinet.
 
   1. A decision by the Cabinet shall be in writing.
 
@@ -3669,7 +3669,7 @@ responsible.
       b. provide Parliament with full and regular reports concerning
 matters under their control.
 
-**154.** Secretary to the Cabinet.
+### 154 Secretary to the Cabinet.
 
   1. There is established the office of Secretary to the
 Cabinet, which is an office in the public service.
@@ -3696,7 +3696,7 @@ authorities; and
   4. The Secretary to the Cabinet may resign from office by giving
 notice, in writing, to the President.
 
-**155.** Principal Secretaries.  
+### 155 Principal Secretaries.  
 
   1. There is established the office of Principal Secretary,
 which is an office in the public service.
@@ -3717,9 +3717,9 @@ Secretaries.
   5. A Principal Secretary may resign from office by giving notice, in
 writing, to the President.
 
-### Part 4-Other Offices
+## Part 4-Other Offices
 
-**156.** Attorney-General.
+### 156 Attorney-General.
 
   1. There is established the office of Attorney-General.
 
@@ -3751,7 +3751,7 @@ law and defend the public interest.
 subordinate officers acting in accordance with general or special
 instructions.
 
-**157.** Director of Public Prosecutions.
+### 157 Director of Public Prosecutions.
 
   1. There is established the office of Director of Public
 Prosecutions.
@@ -3810,7 +3810,7 @@ avoid abuse of the legal process.
 12. Parliament may enact legislation conferring powers of prosecution
 on authorities other than the Director of Public Prosecutions.
 
-**158.** Removal and resignation of Director of Public Prosecutions.
+### 158 Removal and resignation of Director of Public Prosecutions.
 
   1. The Director of Public Prosecutions may be removed from
 office only on the grounds of-
@@ -3871,9 +3871,9 @@ giving notice, in writing, to the President.
 
 ## CHAPTER TEN-JUDICIARY
 
-### Part 1-Judicial Authority and Legal System
+## Part 1-Judicial Authority and Legal System
 
-**159.** Judicial authority.
+### 159 Judicial authority.
 
   1. Judicial authority is derived from the people and vests in,
 and shall be exercised by, the courts and tribunals established by or
@@ -3906,7 +3906,7 @@ are repugnant to justice or morality; or
 
       c. is inconsistent with this Constitution or any written law*.*
 
-**160.** Independence of the Judiciary.
+### 160 Independence of the Judiciary.
 
   1. In the exercise of judicial authority, the Judiciary, as
 constituted by Article 161, shall be subject only to this Constitution
@@ -3916,7 +3916,7 @@ person or authority.
   2. The office of a judge of a superior court shall not be abolished
 while there is a substantive holder of the office.
 
-  3. The remuneration and benefits payable to**or in respect of judges
+  3. The remuneration and benefits payable to or in respect of judges
 shall be a charge on the Consolidated Fund.
 
   4. Subject to Article 168(6), the remuneration and benefits payable to, or in respect of, a judge shall not be varied to the disadvantage of that judge, and the retirement benefits of a retired judge shall not be varied to the disadvantage of the retired judge during the lifetime of that retired judge.
@@ -3925,7 +3925,7 @@ shall be a charge on the Consolidated Fund.
 respect of anything done or omitted to be done in good faith in the
 lawful performance of a judicial function.
 
-**161.** Judicial offices and officers.
+### 161 Judicial offices and officers.
 
   1. The Judiciary consists of the judges of the superior
 courts, magistrates, other judicial officers and staff.
@@ -3943,7 +3943,7 @@ administrator and accounting officer of the Judiciary.
   3. The Judicial Service Commission may establish other offices of
 registrar as may be necessary.
 
-**162.** System of courts.
+### 162 System of courts.
 
   1. The superior courts are the Supreme Court, the Court of
 Appeal, the High Court and the courts referred to in clause   2..
@@ -3962,10 +3962,10 @@ courts contemplated in clause   2..
   4. The subordinate courts are the courts established under Article
 169, or by Parliament in accordance with that Article.
 
-### Part 2-Superior Courts
+## Part 2-Superior Courts
 
 
-** 163.**  Supreme Court.
+###  163  Supreme Court.
 
   1. There is established the Supreme Court, which shall
   consists of-
@@ -4020,7 +4020,7 @@ its proceedings if it is composed of five judges.
   9. An Act of Parliament may make further provision for the operation
   of the Supreme Court.
 
-**164.** Court of Appeal.
+### 164 Court of Appeal.
 
   1. There is established the Court of Appeal, which-
 
@@ -4039,7 +4039,7 @@ elected by the judges of the Court of Appeal from among themselves.
 
       b. any other court or tribunal as prescribed by an Act of Parliament.
 
-**165.** High Court.
+### 165 High Court.
 
   1. There is established the High Court, which-
 
@@ -4099,7 +4099,7 @@ quasi-judicial function, but not over a superior court.
 
   7. For the purposes of clause (6), the High Court may call for the record of any proceedings before any subordinate court or person, body or authority referred to in clause (6), and may make any order or give any direction it considers appropriate to ensure the fair administration of justice.
 
-**166.** Appointment of Chief Justice, Deputy Chief Justice and other judges.
+### 166 Appointment of Chief Justice, Deputy Chief Justice and other judges.
 
   1. The President shall appoint-
 
@@ -4158,7 +4158,7 @@ legal practitioner or such experience in other relevant legal field; or
       c. held the qualifications  specified in paragraphs       a. and      b.
 for a period amounting, in the aggregate, to ten years.
 
-**167.** Tenure of office of the Chief Justice and other judges.
+### 167 Tenure of office of the Chief Justice and other judges.
 
   1. A judge shall retire from office on attaining the age of
 seventy years, but may elect to retire at any time after attaining the
@@ -4181,7 +4181,7 @@ holding office.
   5. The Chief Justice and any other judge may resign from office by
 giving notice, in writing, to the President.
 
-**168.** Removal from office.
+### 168 Removal from office.
 
   1. A judge of a superior court may be removed from office only
 on the grounds of-
@@ -4265,9 +4265,9 @@ the matter affirms the tribunal’s recommendations.
 ​ 10. Parliament shall enact legislation providing for the procedure of
 a tribunal appointed under this Article.
 
-### Part 3-Subordinate Courts
+## Part 3-Subordinate Courts
 
-**169.** Subordinate courts.
+### 169 Subordinate courts.
 
   1. The subordinate courts are-
 
@@ -4284,7 +4284,7 @@ of Parliament, other than the courts established as required by Article
   2. Parliament shall enact legislation conferring jurisdiction,
 functions and powers on the courts established under clause   1..
 
-**170.** Kadhis’ Courts.
+### 170 Kadhis’ Courts.
 
   1. There shall be a Chief Kadhi and such number, being not
 fewer than three, of other Kadhis as may be prescribed under an Act of
@@ -4314,9 +4314,9 @@ marriage, divorce or inheritance in proceedings in which all the parties
 profess the Muslim religion and submit to the jurisdiction of the
 Kadhi’s courts.
 
-### Part 4-Judicial Service Commission
+## Part 4-Judicial Service Commission
 
-**171.** Establishment of the Judicial Service Commission.
+### 171 Establishment of the Judicial Service Commission.
 
   1. There is established the Judicial Service Commission.
 
@@ -4353,7 +4353,7 @@ Attorney-General, shall hold office, provided that they remain
 qualified, for a term of five years and shall be eligible to be
 nominated for one further term of five years.
 
-**172.** Functions of the Judicial Service Commission.
+### 172 Functions of the Judicial Service Commission.
 
   1. The Judicial Service Commission shall promote and
 facilitate the independence and accountability of the judiciary and the
@@ -4387,7 +4387,7 @@ shall-
 
       b. the promotion of gender equality.
 
-**173.** Judiciary Fund.
+### 173 Judiciary Fund.
 
   1. There is established a fund to be known as the Judiciary
 Fund which shall be administered by the Chief Registrar of the
@@ -4412,9 +4412,9 @@ the Fund.
 
 ## CHAPTER ELEVEN-DEVOLVED GOVERNMENT
 
-### Part 1-Objects and Principles of Devolved Government
+## Part 1-Objects and Principles of Devolved Government
 
-**174.** Objects of devolution.
+### 174 Objects of devolution.
 
 The objects of the devolution of government are-
 
@@ -4443,7 +4443,7 @@ The objects of the devolution of government are-
 
   i.   to enhance checks and balances and the separation of powers.
 
-**175.** Principles of devolved government.
+### 175 Principles of devolved government.
 
 County governments established under this Constitution shall
 reflect the following principles-
@@ -4457,9 +4457,9 @@ reflect the following principles-
   c. no more than two-thirds of the members of representative bodies in
   each county government shall be of the same gender.
 
-### Part 2-County Governments
+## Part 2-County Governments
 
-**176.** County governments.
+### 176 County governments.
 
   1. There shall be a county government for each county,
 consisting of a county assembly and a county executive.
@@ -4468,7 +4468,7 @@ consisting of a county assembly and a county executive.
 provision of its services to the extent that it is efficient and
 practicable to do so.
 
-**177.** Membership of county assembly.
+### 177 Membership of county assembly.
 
   1. A county assembly consists of-
 
@@ -4496,7 +4496,7 @@ determined after declaration of elected members from each ward.
 
   4. A county assembly is elected for a term of five years.
 
-**178.** Speaker of a county assembly.
+### 178 Speaker of a county assembly.
 
   1. Each county assembly shall have a speaker elected by the
 county assembly from among persons who are not members of the assembly.
@@ -4511,7 +4511,7 @@ elected by the assembly.
   3. Parliament shall enact legislation providing for the election and
 removal from office of speakers of the county assemblies.
 
-**179.** County executive committees.
+### 179 County executive committees.
 
   1. The executive authority of the county is vested in, and
 exercised by, a county executive committee.
@@ -4545,7 +4545,7 @@ their powers.
 members of the county executive committee appointed under clause  2.
       b. cease to hold office.
 
-**180.** Election of county governor and deputy county governor.
+### 180 Election of county governor and deputy county governor.
 
   1. The county governor shall be directly elected by the voters
 registered in the county, on the same day as a general election of
@@ -4581,7 +4581,7 @@ have been elected as the deputy governor.
 of county governor shall be deemed to have served a full term, subject
 only to Article 182   3.      b..
 
-**181.** Removal of a county governor.
+### 181 Removal of a county governor.
 
   1. A county governor may be removed from office on any of the
 following grounds-
@@ -4600,7 +4600,7 @@ of county governor.
 removal of a county governor on any of the grounds specified in clause
   1..
 
-**182.** Vacancy in the office of county governor.
+### 182 Vacancy in the office of county governor.
 
   1. The office of the county governor shall become vacant if
 the holder of the office-
@@ -4645,7 +4645,7 @@ Article shall, unless otherwise removed from office under this
 Constitution, hold office until the newly elected county governor
 assumes office following the next election held under Article 180   1..
 
-**183.** Functions of county executive committees
+### 183 Functions of county executive committees
 
   1. A county executive committee shall-
 
@@ -4668,7 +4668,7 @@ consideration by the county assembly.
   3. The county executive committee shall provide the county assembly
 with full and regular reports on matters relating to the county.
 
-**184.** Urban areas and cities.
+### 184 Urban areas and cities.
 
   1. National legislation shall provide for the governance and
 management of urban areas and cities and shall, in particular-
@@ -4688,7 +4688,7 @@ areas and cities.
 mechanisms for identifying different categories of urban areas and
 cities, and for their  governance.
 
-**185.** Legislative authority of county assemblies.
+### 185 Legislative authority of county assemblies.
 
   1. The legislative authority of a county is vested in, and
 exercised by, its county assembly.
@@ -4708,9 +4708,9 @@ and any other county executive organs.
       b. the development and management of its infrastructure and
 institutions.
 
-### Part 3-Functions and Powers of County Governments
+## Part 3-Functions and Powers of County Governments
 
-**186.** Respective functions and powers of national and county governments.
+### 186 Respective functions and powers of national and county governments.
 
   1. Except as otherwise provided by this Constitution, the
 functions and powers of the national government and the county
@@ -4727,7 +4727,7 @@ government.
   4. For greater certainty, Parliament may legislate for the Republic on
 any matter.
 
-**187.** Transfer of functions and powers between levels of government.
+### 187 Transfer of functions and powers between levels of government.
 
   1. A function or power of government at one level may be
 transferred to a government at the other level by agreement between the
@@ -4750,9 +4750,9 @@ are transferred; and
 or exercise of the power shall remain with the government to which it is
 assigned by the Fourth Schedule.
 
-### Part 4-The Boundaries of Counties
+## Part 4-The Boundaries of Counties
 
-**188.** Boundaries of counties.
+### 188 Boundaries of counties.
 
   1. The boundaries of a county may be altered only by a
 resolution-
@@ -4784,9 +4784,9 @@ county delegations.
 
       g. geographical features.
 
-### Part 5-Relationships Between Governments
+## Part 5-Relationships Between Governments
 
-**189.** Cooperation between national and county governments.
+### 189 Cooperation between national and county governments.
 
   1. Government at either level shall-
 
@@ -4816,7 +4816,7 @@ procedures provided under national legislation.
 inter-governmental disputes by alternative dispute resolution
 mechanisms, including negotiation, mediation and arbitration.
 
-**190.** Support for county governments.
+### 190 Support for county governments.
 
   1. Parliament shall by legislation ensure that county
 governments have adequate support to enable them to perform their
@@ -4859,7 +4859,7 @@ responsibility for its functions; and
       d. provide for a process by which the Senate may bring the
 intervention by the national government to an end.
 
-**191.** Conflict of laws.
+### 191 Conflict of laws.
 
   1. This Article applies to conflicts between national and
 county legislation in respect of matters falling within the concurrent
@@ -4920,9 +4920,9 @@ of government prevails over a provision of legislation of another level
 of government does not invalidate the other provision, but the other
 provision is inoperative to the extent of the inconsistency.
 
-### Part 6-Suspension of County Governments
+## Part 6-Suspension of County Governments
 
-**192.** Suspension of a county government.
+### 192 Suspension of a county government.
 
   1. The President may suspend a county government-
 
@@ -4948,9 +4948,9 @@ provision is inoperative to the extent of the inconsistency.
   against the county government, the President is satisfied that the
   allegations are justified and the Senate has authorised the suspension.
 
-### Part 7-General
+## Part 7-General
 
-**193.** Qualifications for election as member of county assembly.
+### 193 Qualifications for election as member of county assembly.
 
   1. Unless disqualified under clause   2., a person is eligible
 for election as a member of a county assembly if the person-
@@ -4994,7 +4994,7 @@ Six.
 possibility of appeal or review of the relevant sentence or decision has
 been exhausted.
 
-**194.** Vacation of office of member of county assembly.
+### 194 Vacation of office of member of county assembly.
 
   1. The office of a member of a county assembly becomes vacant-
 
@@ -5027,7 +5027,7 @@ been exhausted.
 under which a member of a political party shall be deemed, for the
 purposes of clause  1.      e., to have resigned from the party. 
 
-**195.** County assembly power to summon witnesses.
+### 195 County assembly power to summon witnesses.
 
   1. A county assembly or any of its committees has power to
 summon any person to appear before it for the purpose of giving evidence
@@ -5044,7 +5044,7 @@ or providing information.
 
 
 
-**196.**  Public participation and county assembly powers, privileges and
+### 196  Public participation and county assembly powers, privileges and
 immunities.
 
   1. A county assembly shall-
@@ -5063,7 +5063,7 @@ determined that there are justifiable reasons for doing so.
 privileges and immunities of county assemblies, their committees and
 members.
 
-**197.** County assembly gender balance and diversity.
+### 197 County assembly gender balance and diversity.
 
   1. Not more than two-thirds of the members of any county
 assembly or county executive committee shall be of the same gender.
@@ -5075,14 +5075,14 @@ reflected in its county assembly and county executive committee; and
 
       b. prescribe mechanisms to protect minorities within counties.
 
-**198.** County government during transition.
+### 198 County government during transition.
 
  While an election is being held to constitute a county assembly
 under this Chapter, the executive committee of the county, as last
 constituted remains competent to perform administrative functions until
 a new executive committee is constituted after the election.
 
-**199.** Publication of county legislation.
+### 199 Publication of county legislation.
 
   1. County legislation does not take effect unless published in
 the *Gazette*.
@@ -5090,7 +5090,7 @@ the *Gazette*.
   2. National and county legislation may prescribe additional
 requirements in respect of the publication of county legislation.
 
-**200.** Legislation on Chapter. 
+### 200 Legislation on Chapter. 
 
   1. Parliament shall enact legislation providing for all
 matters necessary or convenient to give effect to this Chapter.
@@ -5114,9 +5114,9 @@ chairing and frequency of meetings, quorums and voting; and
 
 ## CHAPTER TWELVE-PUBLIC FINANCE {style="margin-top:12.0pt"}
 
-##### Part I-Principles and Framework of Public Finance
+## Part I-Principles and Framework of Public Finance
 
-**201.** Principles of public finance.
+### 201 Principles of public finance.
 
  The following principles shall guide all aspects of public
 finance in the Republic-
@@ -5145,7 +5145,7 @@ finance in the Republic-
   e. financial management shall be responsible, and fiscal reporting
   shall be clear.
 
-**202.** Equitable sharing of national revenue.
+### 202 Equitable sharing of national revenue.
 
   1. Revenue raised nationally shall be shared equitably among
 the national and county governments.
@@ -5154,7 +5154,7 @@ the national and county governments.
 national government’s share of the revenue, either conditionally or
 unconditionally.
 
-**203.** Equitable share and other financial laws.
+### 203 Equitable share and other financial laws.
 
   1. The following criteria shall be taken into account in
 determining the equitable shares provided for under Article 202 and in
@@ -5202,7 +5202,7 @@ government.
 basis of the most recent audited accounts of revenue received, as
 approved by the National Assembly.
 
-**204.** Equalisation Fund.
+### 204 Equalisation Fund.
 
   1. There is established an Equalisation Fund into which shall
 be paid one half per cent of all the revenue collected by the national
@@ -5245,7 +5245,7 @@ the county delegations in the Senate.
   9. Money shall not be withdrawn from the Equalisation Fund unless the
 Controller of Budget has approved the withdrawal.
 
-**205.** Consultation on financial legislation affecting counties.
+### 205 Consultation on financial legislation affecting counties.
 
   1. When a Bill that includes provisions dealing with the
 sharing of revenue, or any financial matter concerning county
@@ -5257,9 +5257,9 @@ Assembly and the Senate.
 Parliament, and each House shall consider the recommendations before
 voting on the Bill.
 
-### Part 2-Other Public Funds
+## Part 2-Other Public Funds
 
-**206.** Consolidated Fund and other public funds.
+### 206 Consolidated Fund and other public funds.
 
   1. There is established the Consolidated Fund into which shall
 be paid all money raised or received by or on behalf of the national
@@ -5288,7 +5288,7 @@ authorised by an Act of Parliament.
   4. Money shall not be withdrawn from the Consolidated Fund unless the
 Controller of Budget has approved the withdrawal.
 
-**207.** Revenue Funds for county governments.
+### 207 Revenue Funds for county governments.
 
   1. There shall be established a Revenue Fund for each county
 government, into which shall be paid all money raised or received by or
@@ -5314,7 +5314,7 @@ Revenue Fund; and
       b. provide for the establishment of other funds by counties and the
 management of those funds.
 
-**208.** Contingencies Fund.
+### 208 Contingencies Fund.
 
   1. There is established a Contingencies Fund, the operation of
 which shall be in accordance with an Act of Parliament.
@@ -5324,9 +5324,9 @@ Contingencies Fund if the Cabinet Secretary responsible for finance is
 satisfied that there is an urgent and unforeseen need for expenditure
 for which there is no other authority.
 
-### Part 3-Revenue-Raising Powers and the Public Debt
+## Part 3-Revenue-Raising Powers and the Public Debt
 
-**209.** Power to impose taxes and charges.
+### 209 Power to impose taxes and charges.
 
   1. Only the national government may impose-
 
@@ -5358,7 +5358,7 @@ be exercised in a way that prejudices national economic policies,
 economic activities across county boundaries or the national mobility of
 goods, services, capital or labour.
 
-**210.** Imposition of tax.
+### 210 Imposition of tax.
 
   1. No tax or licensing fee may be imposed, waived or varied
 except as provided by legislation.  
@@ -5378,7 +5378,7 @@ from payment of tax by reason of-
 
       b. the nature of the work of the State officer.
 
-**211.** Borrowing by national government.
+### 211 Borrowing by national government.
 
   1. Parliament may, by legislation-
 
@@ -5401,7 +5401,7 @@ accumulated interest;
 
       d. the progress made in the repayment of the loan.
 
-**212.** Borrowing by counties.
+### 212 Borrowing by counties.
 
 A county government may borrow only-
 
@@ -5409,7 +5409,7 @@ A county government may borrow only-
 
   b. with the approval of the county government’s assembly.
 
-**213.** Loan guarantees by national government.
+### 213 Loan guarantees by national government.
 
   1. An Act of Parliament shall prescribe terms and conditions
 under which the national government may guarantee loans.
@@ -5418,7 +5418,7 @@ under which the national government may guarantee loans.
 national government shall publish a report on the guarantees that it
 gave during that year.
 
-**214.** Public debt.
+### 214 Public debt.
 
   1. The public debt is a charge on the Consolidated Fund, but
 an Act of Parliament may provide for charging all or part of the public
@@ -5428,9 +5428,9 @@ debt to other public funds.
 financial obligations attendant to loans raised or guaranteed and
 securities issued or guaranteed by the national government.
 
-### Part 4-Revenue Allocation
+## Part 4-Revenue Allocation
 
-**215.** Commission on Revenue Allocation.
+### 215 Commission on Revenue Allocation.
 
   1. There is established the Commission on Revenue Allocation.
 
@@ -5452,7 +5452,7 @@ securities issued or guaranteed by the national government.
 
   4. To be qualified to be a member of the Commission under clause (2) (a), (b) or (c), a person shall have extensive professional experience in financial and economic matters.
 
-**216.** Functions of the Commission on Revenue Allocation.
+### 216 Functions of the Commission on Revenue Allocation.
 
   1. The principal function of the Commission on Revenue
 Allocation is to make recommendations concerning the basis for the
@@ -5484,7 +5484,7 @@ marginalised areas for purposes of Article 204  2..
 National Assembly, the national executive, county assemblies and county
 executives.
 
-**217.** Division of revenue.
+### 217 Division of revenue.
 
   1. Once every five years, the Senate shall, by resolution,
 determine the basis for allocating among the counties the share of
@@ -5541,7 +5541,7 @@ the necessary modifications.
 
   8. Clauses (2) to (8), with the necessary modifications, apply to a resolution under clause (8).
 
-**218.** Annual Division and Allocation of Revenue Bills.
+### 218 Annual Division and Allocation of Revenue Bills.
 
   1. At least two months before the end of each financial year,
 there shall be introduced in Parliament-
@@ -5567,15 +5567,15 @@ Article 203   1.; and
 Revenue Allocation’s recommendations, with an explanation for each such
 deviation.
 
-**219.** Transfer of equitable share.
+### 219 Transfer of equitable share.
 
  A county’s share of revenue raised by the national government
 shall be transferred to the county without undue delay and without
 deduction, except when the transfer has been stopped under Article 225.
 
-### Part 5-Budgets and Spending
+## Part 5-Budgets and Spending
 
-**220.** Form, content and timing of budgets.
+### 220 Form, content and timing of budgets.
 
   1. Budgets of the national and county governments shall
 contain-
@@ -5600,7 +5600,7 @@ county assemblies; and
 government and county governments in the process of preparing plans and
 budgets.
 
-**221.** Budget estimates and annual Appropriation Bill.
+### 221 Budget estimates and annual Appropriation Bill.
 
   1. At least two months before the end of each financial year,
 the Cabinet Secretary responsible for finance shall submit to the
@@ -5620,7 +5620,7 @@ clause  1. together with the estimates submitted by the Parliamentary
 Service Commission and the Chief Registrar of the Judiciary under
 Articles 127 and 173 respectively.
 
-  4. Before the National**Assembly considers the estimates of revenue
+  4. Before the National### Assembly considers the estimates of revenue
 and expenditure, a committee of the Assembly shall discuss and review
 the estimates and make recommendations to the Assembly.
 
@@ -5641,7 +5641,7 @@ the purposes mentioned in the Bill.
 expenditures that are charged on the Consolidated Fund by this
 Constitution or an Act of Parliament.
 
-**222.** Expenditure before annual budget is passed
+### 222 Expenditure before annual budget is passed
 
   1. If the Appropriation Act for a financial year has not been
 assented to, or is not likely to be assented to, by the beginning of
@@ -5661,7 +5661,7 @@ National Assembly; and
       c. be included, under separate votes for the several services in
 respect of which they were withdrawn, in the Appropriation Act.
 
-**223.** Supplementary appropriation.
+### 223 Supplementary appropriation.
 
   1. Subject to clauses   2. to   4., the national government may
 spend money that has not been appropriated if-
@@ -5691,16 +5691,16 @@ spend under this Article more than ten per cent of the sum appropriated
 by Parliament for that financial year unless, in special circumstances,
 Parliament has approved a higher percentage.
 
-**224.** County appropriation Bills. 
+### 224 County appropriation Bills. 
 
  On the basis of the Division of Revenue Bill passed by
 Parliament under Article 218, each county government shall prepare and
 adopt its own annual budget and appropriation Bill in the form, and
 according to the procedure, prescribed in an Act of Parliament.
 
-### Part 6-Control of Public Money
+## Part 6-Control of Public Money
 
-**225.** Financial control.        
+### 225 Financial control.        
 
   1. An Act of Parliament shall provide for the establishment,
 functions and responsibilities of the national Treasury.
@@ -5746,7 +5746,7 @@ Parliament; and
 allegations against it, and to state its case, before the relevant
 parliamentary committee.
 
-**226.** Accounts and audit of public entities.
+### 226 Accounts and audit of public entities.
 
   1. An Act of Parliament shall provide for-
 
@@ -5775,7 +5775,7 @@ instructions, the person is liable for any loss arising from that use
 and shall make good the loss, whether the person remains the holder of
 the office or not.
 
-**227.** Procurement of public goods and services.
+### 227 Procurement of public goods and services.
 
   1. When a State organ or any other public entity contracts for
 goods or services, it shall do so in accordance with a system that is
@@ -5798,9 +5798,9 @@ legislation; and
 obligations, or have been guilty of corrupt practices or serious
 violations of fair employment laws and practices.
 
-### Part 6-Financial Officers and Institutions
+## Part 6-Financial Officers and Institutions
 
-**228.** Controller of Budget.
+### 228 Controller of Budget.
 
   1. There shall be a Controller of Budget who shall be
 nominated by the President and, with the approval of the National
@@ -5824,7 +5824,7 @@ unless satisfied that the withdrawal is authorised by law.
 Parliament a report on the implementation of the budgets of the national
 and county governments.
 
-**229.** Auditor-General.
+### 229 Auditor-General.
 
   1. There shall be an Auditor-General who shall be nominated by
 the President and, with the approval of the National Assembly, appointed
@@ -5874,7 +5874,7 @@ county assembly.
 the county assembly shall debate and consider the report and take
 appropriate action.
 
-**230.** Salaries and Remuneration Commission.
+### 230 Salaries and Remuneration Commission.
 
   1. There is established the Salaries and Remuneration
 Commission.
@@ -5943,7 +5943,7 @@ and retain the skills required to execute their functions;
 
       d. transparency and fairness.
 
-**231.** Central Bank of Kenya.
+### 231 Central Bank of Kenya.
 
   1. There is established the Central Bank of Kenya.
 
@@ -5957,7 +5957,7 @@ the performance of its functions.
 
   4. Notes and coins issued by the Central Bank of Kenya may bear images
 that depict or symbolise Kenya or an aspect of Kenya but shall not bear
-the portrait of any individual.**
+the portrait of any individual
 
   5. An Act of Parliament shall provide for the composition, powers,
 functions and operations of the Central Bank of Kenya.
@@ -5966,9 +5966,9 @@ functions and operations of the Central Bank of Kenya.
 
 ## CHAPTER THIRTEEN-THE PUBLIC SERVICE
 
-### Part 1-Values and Principles of Public Service
+## Part 1-Values and Principles of Public Service
 
-**232.** Values and principles of public service.
+### 232 Values and principles of public service.
 
   1. The values and principles of public service include-
 
@@ -6010,9 +6010,9 @@ in-
   3. Parliament shall enact legislation to give full effect to this
 Article.
 
-### Part 2-The Public Service Commission
+## Part 2-The Public Service Commission
 
-**233.** The Public Service Commission.
+### 233 The Public Service Commission.
 
   1. There is established the Public Service Commission.
 
@@ -6050,7 +6050,7 @@ approval of the National Assembly.
     b. shall be appointed by the Commission for a term of five years, and
     is eligible for re-appointment once.
 
-**234.** Functions and powers of the Public Service Commission.
+### 234 Functions and powers of the Public Service Commission.
 
   1. The functions and powers of the Commission are as set out
 in this Article.
@@ -6064,7 +6064,7 @@ in this Article.
       ​(ii) appoint persons to hold or act in those offices, and to confirm
       appointments;
 
-      b. exercise disciplinary control over and**remove persons holding or acting in those offices;
+      b. exercise disciplinary control over and remove persons holding or acting in those offices;
 
       c. promote the values and principles referred to in Articles 10 and 232 throughout the public service;
 
@@ -6115,7 +6115,7 @@ conditions, any of its functions and powers under this Article to any
 one or more of its members, or to any officer, body or authority in the
 public service.
 
-**235.** Staffing of county governments.
+### 235 Staffing of county governments.
 
   1. A county government is responsible, within a framework of
 uniform norms and standards prescribed by an Act of Parliament, for-
@@ -6125,13 +6125,13 @@ uniform norms and standards prescribed by an Act of Parliament, for-
       b. appointing persons to hold or act in those offices, and confirming
 appointments; and
 
-      c. exercising disciplinary control over and**removing persons holding
+      c. exercising disciplinary control over and removing persons holding
 or acting in those offices.
 
   1. shall not apply to any office or position subject to the
 Teachers Service Commission. 
 
-**236.** Protection of public officers.
+### 236 Protection of public officers.
 
  A public officer shall not be-
 
@@ -6142,9 +6142,9 @@ Teachers Service Commission. 
   b. dismissed, removed from office, demoted in rank or otherwise
   subjected to disciplinary action without due process of law.
 
-### Part 3-Teachers Service Commission
+## Part 3-Teachers Service Commission
 
-**237.** Teachers Service Commission.
+### 237 Teachers Service Commission.
 
   1. There is established the Teachers Service Commission.
 
@@ -6178,11 +6178,11 @@ profession.
 
 ## CHAPTER FOURTEEN-NATIONAL SECURITY
 
-### Part 1-National Security Organs
+## Part 1-National Security Organs
 
-**238.** Principles of national security.
+### 238 Principles of national security.
 
-  1. National security is the protection**against internal and
+  1. National security is the protection against internal and
 external threats to Kenya’s territorial integrity and sovereignty, its
 people, their rights, freedoms, property, peace, stability and
 prosperity, and other national interests.
@@ -6204,7 +6204,7 @@ communities within Kenya; and
       d. recruitment by the national security organs shall reflect the
 diversity of the Kenyan people in equitable proportions.
 
-**239.** National security organs.
+### 239 National security organs.
 
   1. The national security organs are-
 
@@ -6239,7 +6239,7 @@ except as provided for by this Constitution or an Act of Parliament.
 organisation and administration of the national security organs.
 
 
-**240**. Establishment of the National Security Council
+### 240 Establishment of the National Security Council
 
   1. There is established a National Security Council.
 
@@ -6294,9 +6294,9 @@ security of Kenya.
 
       b. approve the deployment of foreign forces in Kenya.
 
-### Part 2-The Kenya Defence Forces
+## Part 2-The Kenya Defence Forces
 
-**241.** Establishment of Defence Forces and Defence Council.
+### 241 Establishment of Defence Forces and Defence Council.
 
   1. There are established the Kenya Defence Forces.
 
@@ -6343,9 +6343,9 @@ the Kenya Defence Forces; and
 
       b. performs any other functions prescribed by national legislation.
 
-### Part 3-The National Intelligence Service
+## Part 3-The National Intelligence Service
 
-**242.** Establishment of National Intelligence Service.
+### 242 Establishment of National Intelligence Service.
 
   1. There is established the National Intelligence Service.
 
@@ -6356,9 +6356,9 @@ to enhance national security in accordance with this Constitution; and
 
       b. performs any other functions prescribed by national legislation.
 
-### Part 4-The National Police Service
+## Part 4-The National Police Service
 
-**243.** Establishment of the National Police Service.
+### 243 Establishment of the National Police Service.
 
   1. There is established the National Police Service.
 
@@ -6374,7 +6374,7 @@ function throughout Kenya.
   4. Parliament shall enact legislation to give full effect to this
 Article.
 
-**244.** Objects and functions of the National Police Service.
+### 244 Objects and functions of the National Police Service.
 
  The National Police Service shall-
 
@@ -6393,7 +6393,7 @@ Article.
 
   e. foster and promote relationships with the broader society.
 
-**245.** Command of the National Police Service.
+### 245 Command of the National Police Service.
 
   1. There is established the office of the Inspector-General of
 the National Police Service.
@@ -6452,7 +6452,7 @@ functions or otherwise;
   8. Parliament shall enact legislation to give full effect to this
 Article.
 
-**246.** National Police Service Commission.
+### 246 National Police Service Commission.
 
   1. There is established the National Police Service
 Commission.
@@ -6479,14 +6479,14 @@ service, confirm appointments, and determine promotions and transfers
 within the National Police Service;
 
       b. observing due process, exercise disciplinary control over
-and**remove persons holding or acting in offices within the Service; and
+and remove persons holding or acting in offices within the Service; and
 
       c. perform any other functions prescribed by national legislation.
 
   4. The composition of the National Police Service shall reflect the
 regional and ethnic diversity of the people of Kenya.
 
-**247.** Other police services.
+### 247 Other police services.
 
  Parliament may enact legislation establishing other police
 services under the supervision of the National Police Service and the
@@ -6496,7 +6496,7 @@ command of the Inspector-General of the Service.
 
 ## CHAPTER FIFTEEN-COMMISSIONS AND INDEPENDENT OFFICES
 
-**248.** Application of Chapter.
+### 248 Application of Chapter.
 
   1. This Chapter applies to the commissions specified in clause
   2. and the independent offices specified in clause  3., except to the
@@ -6530,7 +6530,7 @@ extent that this Constitution provides otherwise.
 
       b. the Controller of Budget.
 
-**249.** Objects, authority and funding of commissions and independent offices.
+### 249 Objects, authority and funding of commissions and independent offices.
 
   1. The objects of the commissions and the independent offices
 are to-
@@ -6553,7 +6553,7 @@ person or authority.
 and independent office to perform its functions and the budget of each
 commission and independent office shall be a separate vote.
 
-**250.** Composition, appointment and terms of office.
+### 250 Composition, appointment and terms of office.
 
   1. Each commission shall consist of at least three, but not
 more than nine, members.
@@ -6586,7 +6586,7 @@ years and is not eligible for re-appointment; and
       b. unless *ex officio* or part-time, shall not hold any other office
 or employment for profit, whether public or private.
 
-  7. The remuneration and benefits payable to**or in respect of a
+  7. The remuneration and benefits payable to or in respect of a
 commissioner or the holder of an independent office shall be a charge on
 the Consolidated Fund.
 
@@ -6616,7 +6616,7 @@ of the same  gender.
 
       b. the chief executive officer of the commission.
 
-**251.** Removal from office.
+### 251 Removal from office.
 
   1. A member of a commission (other than an *ex
 officio*member), or the holder of an independent office, may be removed
@@ -6639,7 +6639,7 @@ holder of an independent office on any ground specified in clause   1.
 may present a petition to the National Assembly setting out the alleged
 facts constituting that ground.
 
-  3. The National**Assembly shall consider the petition and, if it is
+  3. The National Assembly shall consider the petition and, if it is
 satisfied that it discloses a ground under clause   1., shall send the
 petition to the President.
 
@@ -6669,7 +6669,7 @@ act in accordance with the recommendation within thirty days.
 receive one-half of the remuneration and benefits of the office while
 suspended.
 
-**252.** General functions and powers.
+### 252 General functions and powers.
 
   1. Each commission, and each holder of an independent office-
 
@@ -6701,7 +6701,7 @@ investigations-
 
       d. the Auditor-General.
 
-**253.** Incorporation of commissions and independent offices.
+### 253 Incorporation of commissions and independent offices.
 
  Each commission and each independent office-
 
@@ -6709,7 +6709,7 @@ investigations-
 
   b. is capable of suing and being sued in its corporate name.
 
-**254.** Reporting by commissions and independent offices.
+### 254 Reporting by commissions and independent offices.
 
   1. As soon as practicable after the end of each financial
 year, each commission, and each holder of an independent office, shall
@@ -6728,7 +6728,7 @@ office under this Article shall be published and publicised.
 
 ## CHAPTER SIXTEEN-AMENDMENT OF THIS CONSTITUTION
 
-**255.** Amendment of this Constitution.
+### 255 Amendment of this Constitution.
 
   1. A proposed amendment to this Constitution shall be enacted
 in accordance with Article 256 or 257, and approved in accordance with
@@ -6772,7 +6772,7 @@ specified in clause   1. shall be enacted either-
 
       b. by the people and Parliament, in accordance with Article 257.
 
-**256.** Amendment by parliamentary initiative.
+### 256 Amendment by parliamentary initiative.
 
   1. A Bill to amend this Constitution-
 
@@ -6816,7 +6816,7 @@ Electoral and Boundaries Commission has certified to the President that
 the Bill has been approved in accordance with Article 255   2., the
 President shall assent to the Bill and cause it to be published.
 
-**257.** Amendment by popular initiative.
+### 257 Amendment by popular initiative.
 
   1. An amendment to this Constitution may be proposed by a
 popular initiative signed by at least one million registered voters.
@@ -6867,7 +6867,7 @@ referendum under clause (10).
 
 ## CHAPTER SEVENTEEN-GENERAL PROVISIONS
 
-**258.** Enforcement of this Constitution.
+### 258 Enforcement of this Constitution.
 
   1. Every person has the right to institute court proceedings,
 claiming that this Constitution has been contravened, or is threatened
@@ -6887,7 +6887,7 @@ class of persons;
       d. an association acting in the interest of one or more of its
 members.
 
-**259.** Construing this Constitution.
+### 259 Construing this Constitution.
 
   1. This Constitution shall be interpreted in a manner that-
 
@@ -6978,7 +6978,7 @@ conferring the authority.
 ​(10) Except to the extent that this Constitution provides otherwise, if
 a person has vacated an office established under this Constitution, the
 person may, if qualified, again be appointed, elected or otherwise
-selected to hold the office in accordance with this Constitution.**
+selected to hold the office in accordance with this Constitution
 
 * *
 
@@ -6990,7 +6990,7 @@ exercised only on that advice, recommendation, with that approval or
 consent, or after that consultation, except to the extent that this
 Constitution provides otherwise.
 
-**260.** Interpretation.
+### 260 Interpretation.
 
  In this Constitution, unless the context requires otherwise-
 
@@ -7024,7 +7024,7 @@ authority conferred by a county Assembly;
 
 "disability" includes any physical, sensory, mental, psychological or
 other impairment, condition or illness that has, or is perceived by
-significant sectors**of the community to have, a substantial or
+significant sectors of the community to have, a substantial or
 long-term effect on an individual’s ability to carry out ordinary
 day-to-day activities;
 
@@ -7279,7 +7279,7 @@ visible form; and
 
 ## CHAPTER EIGHTEEN-TRANSITIONAL AND CONSEQUENTIAL PROVISIONS
 
-**261.** Consequential legislation.
+### 261 Consequential legislation.
 
   1. Parliament shall enact any legislation required by this
 Constitution to be enacted to govern a particular matter within the
@@ -7304,7 +7304,7 @@ specified time, any person may petition the High Court on the matter.
 
       a. make a declaratory order on the matter; and
 
-      b. transmit**an order directing Parliament and the Attorney-General to take steps
+      b. transmit an order directing Parliament and the Attorney-General to take steps
       to ensure that the required legislation is enacted, within the period specified in the order, and to report the progress to the Chief Justice.
 
   7. If Parliament fails to enact legislation in accordance with an
@@ -7316,19 +7316,19 @@ Parliament.
 
   9. If the new Parliament fails to enact legislation in accordance with clause (8), the provisions of clauses (1) to (8) shall apply afresh.
 
-**262.** Transitional and consequential provisions.
+### 262 Transitional and consequential provisions.
 
 The transitional and consequential provisions set out in the
 Sixth Schedule shall take effect on the effective date.
 
-**263.** Effective Date.
+### 263 Effective Date.
 
 This Constitution shall come into force on its promulgation by
 the President or on the expiry of a period of fourteen days from the
 date of the publication in the *Gazette* of the final result of the
 referendum ratifying this Constitution, whichever is the earlier.
 
-**264.** Repeal of previous constitution.
+### 264 Repeal of previous constitution.
 
  Subject to the Sixth Schedule, for the avoidance of doubt, the
 Constitution in force immediately before the effective date shall stand
@@ -7342,7 +7342,7 @@ repealed on the effective date,
 
 (*Article* 6  1.)
 
-**Counties**
+### Counties
 
   1. Mombasa
 
@@ -7446,7 +7446,7 @@ repealed on the effective date,
 
  
 
-**National Symbols**
+### National Symbols
 
   a.THE NATIONAL FLAG
 
@@ -7456,7 +7456,7 @@ repealed on the effective date,
   measurement and are merely proportional.
    
 
-  **Description-**
+  ### Description-
 
   Three major strips of equal width coloured from top to bottom black, red
   and green and separated by narrow white strips, with a symmetrical
@@ -7508,7 +7508,7 @@ repealed on the effective date,
   ![](data:image/jpg;base64,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)
 
  
-#### THIRD SCHEDULE   (*Articles 74, 141*(*3*)*,**148*(*5*)* and 152*(*4*))
+#### THIRD SCHEDULE   (*Articles 74, 141*(*3*)*,** 148*(*5*)* and 152*(*4*))
 
 National Oaths and Affirmations
 
@@ -7671,10 +7671,10 @@ ill will (So help me God).
 
 #### FOURTH SCHEDULE    (*Article 185*(*2*)*, 186*(*1*)* and 187*(*2*))
 
-**Distribution of Functions Between the National Government and the
-County Governments**
+### Distribution of Functions Between the National Government and the
+County Governments 
 
-### Part 1-National Government
+## Part 1-National Government
 
   1. Foreign affairs, foreign policy and international trade.
 
@@ -7792,7 +7792,7 @@ County Governments**
 
   ​35. Tourism policy and development.
 
-##### Part 2-County Governments
+#### Part 2-County Governments
 
 The functions and powers of the county are-
 
@@ -8192,9 +8192,9 @@ The functions and powers of the county are-
 
 ##### TRANSITIONAL AND CONSEQUENTIAL PROVISIONS
 
-##### Part 1-General
+#### Part 1-General
 
-**1.** Interpretation. In this Schedule, unless the context requires otherwise-
+### 1 Interpretation. In this Schedule, unless the context requires otherwise-
 
 a. "Boundaries Commission" means Interim Independent Boundaries Commission;
 
@@ -8202,7 +8202,7 @@ b. "Electoral Commission" means Interim Independent Electoral Commission;
 
 c. "former Constitution" means the Constitution in force before this Constitution  came into force.
 
-**2.** Suspension of provisions of this Constitution.
+### 2 Suspension of provisions of this Constitution.
 
 1. The following provisions of this Constitution are suspended until the final announcement of all the results of the first elections for Parliament under this Constitution-
 
@@ -8228,7 +8228,7 @@ c. "former Constitution" means the Constitution in force before this Constitutio
 
 4. Article 62 (2) and (3) is suspended until the National Land Commission is established.
 
-**3.** Extension of application of provisions of the former constitution.
+### 3 Extension of application of provisions of the former constitution.
 
 1. Until Parliament passes the Act anticipated in Articles 15 and
 18, section 93 of the former Constitution continues to apply.
@@ -8246,7 +8246,7 @@ shall apply to that election.
 appointments, discipline and the removal of persons from office in the
 National Police Service.
 
-**4.** Parliamentary Select Committee.
+### 4 Parliamentary Select Committee.
 There shall be a select committee of Parliament to be known as the
 Constitutional Implementation Oversight Committee which shall be
 responsible for overseeing the implementation of this Constitution and
@@ -8278,7 +8278,7 @@ required by this Constitution; and
 c. take appropriate action on the reports including addressing any
 problems in the implementation of this Constitution.
 
-**5.** Commission for the Implementation of the Constitution.
+### 5 Commission for the Implementation of the Constitution.
 
 1. There is established the Commission for the Implementation of the Constitution.
 
@@ -8327,9 +8327,9 @@ implementation of this Constitution as determined by Parliament,
 whichever is sooner, but the National Assembly may, by resolution,
 extend its life.
 
-### Part 2-Existing Obligations, Laws and Rights
+## Part 2-Existing Obligations, Laws and Rights
 
-**6.** Rights, duties and obligations of the State.
+### 6 Rights, duties and obligations of the State.
 
 Except to the extent that this Constitution expressly provides to
 the contrary, all rights and obligations, however arising, of the
@@ -8337,7 +8337,7 @@ Government or the Republic and subsisting immediately before the
 effective date shall continue as rights and obligations of the national
 government or the Republic under this Constitution.
 
-**7.** Existing laws.
+### 7 Existing laws.
 
 1. All law in force immediately before the effective date continues
 in force and shall be construed with the alterations, adaptations,
@@ -8357,7 +8357,7 @@ this Constitution.
 the provisions of this Constitution prevail to the extent of the
 conflict.
 
-**8.** Existing land holdings and agreements relating to natural resources.
+### 8 Existing land holdings and agreements relating to natural resources.
 
 1. On the effective date, any freehold interest in land in Kenya
 held by a person who is not a citizen shall revert to the Republic of
@@ -8371,9 +8371,9 @@ shall be converted to a ninety-nine year lease.
 3. The provisions of Article 71 shall not take effect until the
 legislation contemplated under that Article is enacted.
 
-### Part 3-National Government
+## Part 3-National Government
 
-**9.** Elections and by-elections.
+### 9 Elections and by-elections.
 
 1. The first elections for the President, the National Assembly,
 the Senate, county assemblies and county governors under this
@@ -8383,13 +8383,13 @@ dissolution of the National Assembly at the end of its term.
 2. Despite subsection (1), if the coalition established under the National
 Accord is dissolved and general elections are held before 2012, elections for the first county assemblies and governors shall be held during 2012.
 
-**​10.** National Assembly.
+### ​10 National Assembly.
 
 The National Assembly existing immediately before the effective
 date shall continue as the National Assembly for the purposes of this
 Constitution for its unexpired term.
 
-**​11.**​ The Senate.
+### ​11​ The Senate.
 
 1. Until the first Senate has been elected under this
 Constitution-
@@ -8406,7 +8406,7 @@ exercised by the National Assembly before the date contemplated in
 subsection  1., be deemed to have been duly performed or exercised by
 the Senate.
 
-**​12.**​ The Executive.
+### ​12​ The Executive.
 
 1. The persons occupying the offices of President and Prime
 Minister immediately before the effective date shall continue to serve
@@ -8428,18 +8428,18 @@ eligible to stand for election as President under this Constitution.
 
 Oath of allegiance to this Constitution.           
 
-​**​13.**​ On the effective date, the President and any State officer or other
+​### ​13​ On the effective date, the President and any State officer or other
 person who had, before the effective date, taken and subscribed an oath
 or affirmation of office under the former Constitution, or who is
 required to take and subscribe an oath or affirmation of office under
 this Constitution, shall take and subscribe the appropriate oath or
 affirmation under this Constitution.
 
-### Part 4-Devolved Government
+## Part 4-Devolved Government
 
 
 
-​**​14.**​ Operation of provisions relating to devolved government.
+​### ​14​ Operation of provisions relating to devolved government.
 
 1. The laws contemplated in section 2 3. b. and section 15 may
 be enacted only after the Commission on the Implementation of the
@@ -8454,7 +8454,7 @@ legislation under subsection  1..
 
 
 
-​**15.**  Provision for devolution of functions to be made by Act of Parliament.
+​### 15  Provision for devolution of functions to be made by Act of Parliament.
 
 1. Parliament shall, by legislation, make provision for  the
 phased transfer, over a period of not more than three years from the
@@ -8486,7 +8486,7 @@ Article 185.
 	Implementation of the Constitution can perform its role in monitoring
 	the implementation of the system of devolved government effectively.
 
-**16.** Division of revenue.
+### 16 Division of revenue.
 
 Despite Article 217  1., the first and second determinations of the
 basis of the division of revenue among the counties shall be made at
@@ -8495,7 +8495,7 @@ Article.
 
 
 
-​**17.** Provincial Administration.
+​### 17 Provincial Administration.
 
 Within five years after the effective date, the national government
 shall restructure the system of administration commonly known as the
@@ -8504,15 +8504,15 @@ devolved government established under this Constitution.
 
 Local Authorities.
 
-**18.** All local authorities established under the Local Government Act
+### 18 All local authorities established under the Local Government Act
 (Cap. 265) existing immediately before the effective date shall continue
 to exist subject to any law that might be enacted.
 
-### Part 5-Administration of Justice
+## Part 5-Administration of Justice
 
 Rules for the enforcement of the Bill of Rights.
 
-**19.** Until the Chief Justice makes the rules contemplated by Article 22,
+### 19 Until the Chief Justice makes the rules contemplated by Article 22,
 the Rules for the enforcement of the fundamental rights and freedoms
 under section 84  6. of the former Constitution shall continue in force
 with the alterations, adaptations, qualifications and exceptions as may
@@ -8520,7 +8520,7 @@ be necessary to bring them into conformity with Article 22.
 
 
 
-**20.** The Judicial Service Commission.
+### 20 The Judicial Service Commission.
 
 1. The Judicial Service Commission shall be appointed within sixty
 	days after the effective date and the Commission shall be deemed to be
@@ -8554,7 +8554,7 @@ nominate a person to serve on the Judicial Service Commission.
 
 
 
-​**21.** Establishment of the Supreme Court.
+​### 21 Establishment of the Supreme Court.
 
 1. The establishment of, and appointment of judges to, the Supreme
 Court shall be completed within one year after the effective date.
@@ -8564,12 +8564,12 @@ have jurisdiction over matters assigned to the Supreme Court.
 
 Judicial proceedings and pending matters.
 
-​**22.** All judicial proceedings pending before any court shall continue to
+​### 22 All judicial proceedings pending before any court shall continue to
 be heard and shall be determined by the same court or a corresponding
 court established under this Constitution or as directed by the Chief
 Justice or the Registrar of the High Court.
 
-**23.**  Judges.
+### 23  Judges.
 
 1. Within one year after the effective date, Parliament shall
 enact legislation, which shall operate despite Article 160, 167 and 168,
@@ -8584,7 +8584,7 @@ office by virtue of the operation of legislation contemplated under
 subsection  1. shall not be subject to question in, or review by, any
 court.
 
-**24.** Chief Justice. 
+### 24 Chief Justice. 
 
 1. The Chief Justice in office immediately before the effective
 date shall, within six months after the effective date, vacate office
@@ -8600,11 +8600,11 @@ the Prime Minister and with the approval of the National Assembly.
 
 3. Subsection (2) also applies if there are further vacancies in the office of Chief Justice before the first general elections under this Constitution.
 
-### Part 6-Commissions and Offices
+## Part 6-Commissions and Offices
 
 
 
-​**25.** Constitutional Commissions.
+​### 25 Constitutional Commissions.
 
 1. The Commission on the Implementation of the Constitution and
 the Commission on Revenue Allocation shall be constituted within ninety
@@ -8621,7 +8621,7 @@ the Prime Minister and with the approval of the National Assembly.
 
 
 
-​**26.** The Kenya National Human Rights and Equality Commission.
+​### 26 The Kenya National Human Rights and Equality Commission.
 
 1. The commissioners of the Kenya National Commission on Human
 Rights appointed under the Kenya National Commission on Human Rights
@@ -8631,7 +8631,7 @@ Commission on Gender and Development Act, 2003 (No. 13 of 2003) other
 than the Permanent Secretaries and the Attorney-General or a
 representative of the Attorney-General, shall become members of the
 Kenya National Human Rights and Equality Commission for their unexpired
-term**but each shall retain the terms of service as at the effective
+term### but each shall retain the terms of service as at the effective
 date.
 
 2. The chairperson of the Kenya National Commission on Human Rights
@@ -8641,7 +8641,7 @@ chairperson of the National Commission on Gender and Development shall
 be the Vice- Chairperson of the Kenya National Human Rights and Equality
 Commission for that chairperson’s unexpired term.
 
-**27.** The Interim Independent Boundaries Commission.
+### 27 The Interim Independent Boundaries Commission.
 
 1. The Boundaries Commission established under the former
 Constitution shall continue to function as constituted under that
@@ -8664,7 +8664,7 @@ in the loss of a constituency existing on the effective date.
 
 
 
-​**28.**  The Interim Independent Electoral Commission and Independent Electoral
+​### 28  The Interim Independent Electoral Commission and Independent Electoral
 and Boundaries Commission.
 
 1. The Interim Independent Electoral Commission established under
@@ -8679,7 +8679,7 @@ retention of expertise and experience.
 
 
 
-​**29.** New appointments.
+​### 29 New appointments.
 
 1. The process of appointment of persons to fill vacancies arising
 in consequence of the coming into force of this Constitution shall begin
@@ -8692,11 +8692,11 @@ Constitution, the President shall, subject to the National Accord and
 Reconciliation Act, appoint a person after consultation with the Prime
 Minister and with the approval of the National Assembly.
 
-### Part 6-Miscellaneous Matters
+## Part 6-Miscellaneous Matters
 
 
 
-​**30.** Citizenship by birth.
+​### 30 Citizenship by birth.
 
 A Kenyan citizen is a citizen by birth if that citizen-
 
@@ -8712,7 +8712,7 @@ become a citizen of Kenya on 12th December, 1963."
 
 
 
-​**31.** Existing offices.
+​### 31 Existing offices.
 
 1. Unless this Schedule provides otherwise, a person who
 immediately before the effective date, held or was acting in an office
@@ -8749,7 +8749,7 @@ Constitution. 
 
 Pensions, gratuities and other benefits.
 
-​**32.** The law applicable to pensions in respect of holders of
+​### 32 The law applicable to pensions in respect of holders of
 constitutional offices under the former Constitution shall be either the
 law that was in force at the date on which those benefits were granted
 or any law in force at a later date that is not less favourable to the
@@ -8765,17 +8765,17 @@ new name.
 
 Currency.
 
-​**34.** Nothing in Article 231   4. affects the validity of coins and notes
+​### 34 Nothing in Article 231   4. affects the validity of coins and notes
 issued before the effective date.
 
 
-**SUBSIDIARY LEGISLATION**
+### SUBSIDIARY LEGISLATION 
 
 
-**THE CONSTITUTION OF KENYA REVIEW ACT, 2008**
+### THE CONSTITUTION OF KENYA REVIEW ACT, 2008
 
  
-**THE NEW CONSTITUTION OF KENYA**
+### THE NEW CONSTITUTION OF KENYA
 
  
 
@@ -8869,7 +8869,7 @@ specified in the Schedule, acting in accordance with his general or
 special instructions.
 
 
-**SCHEDULE**
+### SCHEDULE 
 
  
 
