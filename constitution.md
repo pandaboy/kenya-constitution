@@ -27,7 +27,7 @@ We, the people of Kenya:
 
 ## Chapter One: Sovereignty of the People and Supremacy of this Constitution
 
-**1. Sovereignty of the people.**
+### 1. Sovereignty of the people.
 
 1. All sovereign power belongs to the people of Kenya and shall be exercised only in accordance with this Constitution.
 2. The people may exercise their sovereign power either directly or through their democratically elected representatives.
@@ -39,7 +39,7 @@ We, the people of Kenya:
   a. the national level; and  
   b. the county level.
 
-**2. Supremacy of this Constitution.**
+### 2. Supremacy of this Constitution.
 
 1. This Constitution is the supreme law of the Republic andbinds all persons and all State organs at both levels of government.
 2. No person may claim or exercise State authority except asauthorised under this Constitution.
@@ -175,14 +175,15 @@ A citizen by birth does not lose citizenship by acquiring the citizenship of ano
   c. the age of the person becomes known, and reveals that the person was older than eight years when found in Kenya.
 
 **18. Legislation on citizenship.**
-Parliament shall enact legislation:
-a. prescribing procedures by which a person may become a citizen;
-b. governing entry into and residence in Kenya;
-c. providing for the status of permanent residents;
-d. providing for voluntary renunciation of citizenship;
-e. prescribing procedures for revocation of citizenship;
-f. prescribing the duties and rights of citizens; and
-g. generally giving effect to the provisions of this Chapter.
+
+Parliament shall enact legislation:  
+a. prescribing procedures by which a person may become a citizen;  
+b. governing entry into and residence in Kenya;  
+c. providing for the status of permanent residents;  
+d. providing for voluntary renunciation of citizenship;  
+e. prescribing procedures for revocation of citizenship;  
+f. prescribing the duties and rights of citizens; and  
+g. generally giving effect to the provisions of this Chapter.  
 
 ### Part 1-General Provisions Relating to the Bill of Rights
 
