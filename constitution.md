@@ -164,7 +164,7 @@ e. prescribing procedures for revocation of citizenship;
 f. prescribing the duties and rights of citizens; and  
 g. generally giving effect to the provisions of this Chapter.  
 
-## Part 1-General Provisions Relating to the Bill of Rights
+## Part 1: General Provisions Relating to the Bill of Rights
 
 ### 19. Rights and fundamental freedoms.
 1. The Bill of Rights is an integral part of Kenya’s democratic state and is the framework for social, economic and cultural policies.
@@ -226,7 +226,7 @@ their own name;
   e. an order for compensation; and  
   f. an order of judicial review.
 
-### 24.   Limitation of rights and fundamental freedoms.
+### 24. Limitation of rights and fundamental freedoms.
 1. A right or fundamental freedom in the Bill of Rights shall not be limited except by law, and then only to the extent that the limitation is reasonable and justifiable in an open and democratic society based on human dignity, equality and freedom, taking into account all relevant factors, including:  
   a. the nature of the right or fundamental freedom;  
   b. the importance of the purpose of the limitation;  
@@ -240,12 +240,12 @@ their own name;
 3. The State or a person seeking to justify a particular limitation shall demonstrate to the court, tribunal or other authority that the requirements of this Article have been satisfied.
 4. The provisions of this Chapter on equality shall be qualified to the extent strictly necessary for the application of Muslim law before the Kadhis’ courts, to persons who profess the Muslim religion, in matters relating to personal status, marriage, divorce and inheritance.
 5. Despite clause 1. and  2., a provision in legislation may limit the application of the rights or fundamental freedoms in the following provisions to persons serving in the Kenya Defence Forces or the National Police Service:  
-a. Article 31-Privacy;  
-b. Article 36-Freedom of association;  
-c. Article 37-Assembly, demonstration, picketing and petition;  
-d. Article 41-Labour relations;  
-e. Article 43-Economic and social rights; and  
-f. Article 49-Rights of arrested persons.
+  a. Article 31-Privacy;  
+  b. Article 36-Freedom of association;  
+  c. Article 37-Assembly, demonstration, picketing and petition;  
+  d. Article 41-Labour relations;  
+  e. Article 43-Economic and social rights; and  
+  f. Article 49-Rights of arrested persons.
 
 ### 25. Fundamental Rights and freedoms that may not be limited.
 Despite any other provision in this Constitution, the following rights and fundamental freedoms shall not be limited:  
@@ -254,7 +254,7 @@ b. freedom from slavery or servitude;
 c. the right to a fair trial; and  
 d. the right to an order of *habeas corpus.
 
-## Part 2-Rights and Fundamental Freedoms
+## Part 2: Rights and Fundamental Freedoms
 
 ### 26. Right to life.
 1. Every person has the right to life.
@@ -509,7 +509,7 @@ the right:
   a. provides for the humane treatment of persons detained, held in custody or imprisoned; and  
   b. takes into account the relevant international human rights instruments.
 
-## Part 3- Specific Application of Rights
+## Part 3: Specific Application of Rights
 
 ### 52 Interpretation of this Part.
 1. This Part elaborates certain rights to ensure greater certainty as to the application of those rights and fundamental freedoms to certain groups of persons.
@@ -558,7 +558,7 @@ The State shall take measures to ensure the rights of older persons:
   c. to live in dignity and respect and be free from abuse; and  
   d. to receive reasonable care and assistance from their family and the State.  
 
-## Part 4-State of Emergency
+## Part 4: State of Emergency
 
 ### 58 State of emergency.
 1. A state of emergency may be declared only under Article 132 4.d. and only when:  
@@ -584,7 +584,7 @@ The State shall take measures to ensure the rights of older persons:
   b. shall not take effect until it is published in the *Gazette*.
 7. A declaration of a state of emergency, or legislation enacted or other action taken in consequence of any declaration, may not permit or authorise the indemnification of the State, or of any person, in respect of any unlawful act or omission.
 
-## Part 5- Kenya National Human Rights and Equality Commission
+## Part 5: Kenya National Human Rights and Equality Commission
 
 ### 59 Kenya National Human Rights and Equality Commission.
   1. There is established the Kenya National Human Rights and
