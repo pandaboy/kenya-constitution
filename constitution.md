@@ -503,139 +503,65 @@ the right:
 9. Parliament shall enact legislation providing for the protection, rights and welfare of victims of offences.
 
 ### 51 Rights of persons detained, held in custody or imprisoned.
-
-  1. A person who is detained, held in custody or imprisoned
-under the law, retains all the rights and fundamental freedoms in the
-Bill of Rights, except to the extent that any particular right or a
-fundamental freedom is clearly incompatible with the fact that the
-person is detained, held in custody or imprisoned.
-
-  2. A person who is detained or held in custody is entitled to petition
-for an order of *habeas corpus*.
-
-  3. Parliament shall enact legislation that-
-
-      a. provides for the humane treatment of persons detained, held in
-custody or imprisoned; and
-
-      b. takes into account the relevant international human rights
-instruments.
+1. A person who is detained, held in custody or imprisoned under the law, retains all the rights and fundamental freedoms in the Bill of Rights, except to the extent that any particular right or a fundamental freedom is clearly incompatible with the fact that the person is detained, held in custody or imprisoned.
+2. A person who is detained or held in custody is entitled to petition for an order of *habeas corpus*.
+3. Parliament shall enact legislation that:  
+  a. provides for the humane treatment of persons detained, held in custody or imprisoned; and  
+  b. takes into account the relevant international human rights instruments.
 
 ## Part 3- Specific Application of Rights
 
 ### 52 Interpretation of this Part.
-
-  1. This Part elaborates certain rights to ensure greater
-certainty as to the application of those rights and fundamental freedoms
-to certain groups of persons.
-
-  2. This Part shall not be construed as limiting or qualifying any
-right.
+1. This Part elaborates certain rights to ensure greater certainty as to the application of those rights and fundamental freedoms to certain groups of persons.
+2. This Part shall not be construed as limiting or qualifying any right.
 
 ### 53 Children.
-
-  1. Every child has the right-
-
-      a. to a name and nationality from birth;
-
-      b. to free and compulsory basic education;
-
-      c. to basic nutrition, shelter and health care;
-
-      d. to be protected from abuse, neglect, harmful cultural practices,
-all forms of violence, inhuman treatment and punishment, and hazardous
-or exploitative labour;
-
-      e. to parental care and protection, which includes equal
-responsibility of the mother and father to provide for the child,
-whether they are married to each other or not; and
-
-      f. not to be detained, except as a measure of last resort, and when
-detained, to be held-
-
-      ​(i) for the shortest appropriate period of time; and
-
-      ​(ii) separate from adults and in conditions that take account of the
-      child’s sex and age.
-
-  2. A child’s best interests are of paramount importance in every
-matter concerning the child.
+1. Every child has the right:  
+  a. to a name and nationality from birth;  
+  b. to free and compulsory basic education;  
+  c. to basic nutrition, shelter and health care;  
+  d. to be protected from abuse, neglect, harmful cultural practices, all forms of violence, inhuman treatment and punishment, and hazardous or exploitative labour;  
+  e. to parental care and protection, which includes equal responsibility of the mother and father to provide for the child, whether they are married to each other or not; and  
+  f. not to be detained, except as a measure of last resort, and when detained, to be held:  
+      (i) for the shortest appropriate period of time; and  
+      (ii) separate from adults and in conditions that take account of the child’s sex and age.
+2. A child’s best interests are of paramount importance in every matter concerning the child.
 
 ### 54 Persons with disabilities.
-
-  1. A person with any disability is entitled-
-
-      a. to be treated with dignity and respect and to be addressed and
-referred to in a manner that is not demeaning;
-
-      b. to access educational institutions and facilities for persons with
-disabilities that are integrated into society to the extent compatible
-with the interests of the person;
-
-      c. to reasonable access to all places, public transport and
-information;
-
-      d. to use Sign language, Braille or other appropriate means of
-communication; and
-
-      e. to access materials and devices to overcome constraints arising
-from the person’s disability.
-
-  2. The State shall ensure the progressive implementation of the
-principle that at least five percent of the members of the public in
-elective and appointive bodies are persons with disabilities.
+1. A person with any disability is entitled:  
+  a. to be treated with dignity and respect and to be addressed and referred to in a manner that is not demeaning;  
+  b. to access educational institutions and facilities for persons with disabilities that are integrated into society to the extent compatible with the interests of the person;  
+  c. to reasonable access to all places, public transport and information;  
+  d. to use Sign language, Braille or other appropriate means of communication; and  
+  e. to access materials and devices to overcome constraints arising from the person’s disability.
+2. The State shall ensure the progressive implementation of the principle that at least five percent of the members of the public in elective and appointive bodies are persons with disabilities.
 
 ### 55 Youth.
-
-The State shall take measures, including affirmative action
-programmes, to ensure that the youth-
-
-  a. access relevant education and training;
-
-  b. have opportunities to associate, be represented and participate in
-  political, social, economic and other spheres of life;
-
-  c. access employment; and
-
+The State shall take measures, including affirmative action programmes, to ensure that the youth:  
+  a. access relevant education and training;  
+  b. have opportunities to associate, be represented and participate in political, social, economic and other spheres of life;  
+  c. access employment; and  
   d. are protected from harmful cultural practices and exploitation.
 
 ### 56 Minorities and marginalised groups.
-
-The State shall put in place affirmative action programmes
-designed to ensure that minorities and marginalised groups- 
-
-  a. participate and are represented in governance and other spheres of
-  life;
-
-  b. are provided special opportunities in educational and economic
-  fields;
-
-  c. are provided special opportunities for access to employment;
-
-  d. develop their cultural values, languages and practices; and
-
-  e. have reasonable access to water, health services and
-  infrastructure.
+The State shall put in place affirmative action programmes designed to ensure that minorities and marginalised groups:  
+  a. participate and are represented in governance and other spheres of life;  
+  b. are provided special opportunities in educational and economic fields;  
+  c. are provided special opportunities for access to employment;  
+  d. develop their cultural values, languages and practices; and  
+  e. have reasonable access to water, health services and infrastructure.  
 
 ### 57 Older members of society.
-
- The State shall take measures to ensure the rights of older
-persons-
-
-  a. to fully participate in the affairs of society;
-
-  b. to pursue their personal development;
-
-  c. to live in dignity and respect and be free from abuse; and
-
-  d. to receive reasonable care and assistance from their family and
-  the State.
+The State shall take measures to ensure the rights of older persons:  
+  a. to fully participate in the affairs of society;  
+  b. to pursue their personal development;  
+  c. to live in dignity and respect and be free from abuse; and  
+  d. to receive reasonable care and assistance from their family and the State.  
 
 ## Part 4-State of Emergency
 
 ### 58 State of emergency.
-
-  1. A state of emergency may be declared only under Article 132 4.d. and only when-
+1. A state of emergency may be declared only under Article 132 4.d. and only when-
 
       a. the State is threatened by war, invasion, general insurrection,
 disorder, natural disaster or other public emergency; and
