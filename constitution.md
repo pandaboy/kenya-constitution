@@ -400,12 +400,12 @@ authorities.
   c. to form and join a federation.  
 5. Every trade union, employers’ organisation and employer has the right to engage in collective bargaining.
 
-### 42 Environment.
+### 42. Environment.
 Every person has the right to a clean and healthy environment, which includes the right:  
   a. to have the environment protected for the benefit of present and future generations through legislative and other measures, particularly those contemplated in Article 69; and  
   b. to have obligations relating to the environment fulfilled under Article 70.
 
-### 43 Economic and social rights.
+### 43. Economic and social rights.
 1. Every person has the right:  
   a. to the highest attainable standard of health, which includes the right to health care services, including reproductive health care;  
   b. to accessible and adequate housing, and to reasonable standards of sanitation;  
@@ -416,14 +416,14 @@ Every person has the right to a clean and healthy environment, which includes 
 2. A person shall not be denied emergency medical treatment.
 3. The State shall provide appropriate social security to persons who are unable to support themselves and their dependants.
 
-### 44 Language and culture.
+### 44. Language and culture.
 1. Every person has the right to use the language, and to participate in the cultural life, of the person’s choice.
 2. A person belonging to a cultural or linguistic community has the right, with other members of that community:  
   a. to enjoy the person’s culture and use the person’s language; or  
   b. to form, join and maintain cultural and linguistic associations and other organs of civil society.
 3. A person shall not compel another person to perform, observe or undergo any cultural practice or rite.
 
-### 45 Family.
+### 45. Family.
 1. The family is the natural and fundamental unit of society and the necessary basis of social order, and shall enjoy the recognition and protection of the State.
 2. Every adult  has the right to marry a person of the opposite sex, based on the free consent of the parties.
 3. Parties to a marriage are entitled to equal rights at the time of the marriage, during the marriage and at the dissolution of the marriage.
@@ -431,7 +431,7 @@ Every person has the right to a clean and healthy environment, which includes 
   a. marriages concluded under any tradition, or system of religious, personal or family law; and  
   b. any system of personal and family law under any tradition, or adhered to by persons professing a particular religion,to the extent that any such marriages or systems of law are consistent with this Constitution.
 
-### 46 Consumer rights.
+### 46. Consumer rights.
 1. Consumers have the right:  
   a. to goods and services of reasonable quality;  
   b. to the information necessary for them to gain full benefit from goods and services;  
@@ -440,17 +440,17 @@ Every person has the right to a clean and healthy environment, which includes 
 2. Parliament shall enact legislation to provide for consumer protection and for fair, honest and decent advertising.
 3. This Article applies to goods and services offered by public entities or private persons.
 
-### 47 Fair administrative action.
+### 47. Fair administrative action.
 1. Every person has the right to administrative action that isexpeditious, efficient, lawful, reasonable and procedurally fair.
 2. If a right or fundamental freedom of a person has been or is likely to be adversely affected by administrative action, the person has the right to be given written reasons for the action.
 3. Parliament shall enact legislation to give effect to the rights in clause  1. and that legislation shall:  
   a. provide for the review of administrative action by a court or, if appropriate, an independent and impartial tribunal; and  
   b. promote efficient administration.
 
-### 48 Access to justice.
+### 48. Access to justice.
 The State shall ensure access to justice for all persons and, if any fee is required, it shall be reasonable and shall not impede access to justice.
 
-### 49 Rights of arrested persons.
+### 49. Rights of arrested persons.
 1. An arrested person has the right:  
   a. to be informed promptly, in language that the person understands,of:  
       (i) the reason for the arrest;  
@@ -467,7 +467,7 @@ The State shall ensure access to justice for all persons and, if any fee is requ
   h. to be released on bond or bail, on reasonable conditions, pending a charge or trial, unless there are compelling reasons not to be released.
 2. A person shall not be remanded in custody for an offence if the offence is punishable by a fine only or by imprisonment for not more than six months.
 
-### 50 Fair hearing.
+### 50. Fair hearing.
 1. Every person has the right to have any dispute that can be resolved by the application of law decided in a fair and public hearing before a court or, if appropriate, another independent and impartial tribunal or body.
 2. Every accused person has the right to a fair trial, which includes
 the right:  
@@ -502,7 +502,7 @@ the right:
 8. This Article does not prevent the exclusion of the press or other members of the public from any proceedings if the exclusion is necessary, in a free and democratic society, to protect witnesses or vulnerable persons, morality, public order or national security.
 9. Parliament shall enact legislation providing for the protection, rights and welfare of victims of offences.
 
-### 51 Rights of persons detained, held in custody or imprisoned.
+### 51. Rights of persons detained, held in custody or imprisoned.
 1. A person who is detained, held in custody or imprisoned under the law, retains all the rights and fundamental freedoms in the Bill of Rights, except to the extent that any particular right or a fundamental freedom is clearly incompatible with the fact that the person is detained, held in custody or imprisoned.
 2. A person who is detained or held in custody is entitled to petition for an order of *habeas corpus*.
 3. Parliament shall enact legislation that:  
@@ -511,11 +511,11 @@ the right:
 
 ## Part 3: Specific Application of Rights
 
-### 52 Interpretation of this Part.
+### 52. Interpretation of this Part.
 1. This Part elaborates certain rights to ensure greater certainty as to the application of those rights and fundamental freedoms to certain groups of persons.
 2. This Part shall not be construed as limiting or qualifying any right.
 
-### 53 Children.
+### 53. Children.
 1. Every child has the right:  
   a. to a name and nationality from birth;  
   b. to free and compulsory basic education;  
@@ -527,7 +527,7 @@ the right:
       (ii) separate from adults and in conditions that take account of the child’s sex and age.
 2. A child’s best interests are of paramount importance in every matter concerning the child.
 
-### 54 Persons with disabilities.
+### 54. Persons with disabilities.
 1. A person with any disability is entitled:  
   a. to be treated with dignity and respect and to be addressed and referred to in a manner that is not demeaning;  
   b. to access educational institutions and facilities for persons with disabilities that are integrated into society to the extent compatible with the interests of the person;  
@@ -536,14 +536,14 @@ the right:
   e. to access materials and devices to overcome constraints arising from the person’s disability.
 2. The State shall ensure the progressive implementation of the principle that at least five percent of the members of the public in elective and appointive bodies are persons with disabilities.
 
-### 55 Youth.
+### 55. Youth.
 The State shall take measures, including affirmative action programmes, to ensure that the youth:  
   a. access relevant education and training;  
   b. have opportunities to associate, be represented and participate in political, social, economic and other spheres of life;  
   c. access employment; and  
   d. are protected from harmful cultural practices and exploitation.
 
-### 56 Minorities and marginalised groups.
+### 56. Minorities and marginalised groups.
 The State shall put in place affirmative action programmes designed to ensure that minorities and marginalised groups:  
   a. participate and are represented in governance and other spheres of life;  
   b. are provided special opportunities in educational and economic fields;  
@@ -551,7 +551,7 @@ The State shall put in place affirmative action programmes designed to ensure th
   d. develop their cultural values, languages and practices; and  
   e. have reasonable access to water, health services and infrastructure.  
 
-### 57 Older members of society.
+### 57. Older members of society.
 The State shall take measures to ensure the rights of older persons:  
   a. to fully participate in the affairs of society;  
   b. to pursue their personal development;  
@@ -560,7 +560,7 @@ The State shall take measures to ensure the rights of older persons:
 
 ## Part 4: State of Emergency
 
-### 58 State of emergency.
+### 58. State of emergency.
 1. A state of emergency may be declared only under Article 132 4.d. and only when:  
   a. the State is threatened by war, invasion, general insurrection, disorder, natural disaster or other public emergency; and  
   b. the declaration is necessary to meet the circumstances for which the emergency is declared.
@@ -586,81 +586,33 @@ The State shall take measures to ensure the rights of older persons:
 
 ## Part 5: Kenya National Human Rights and Equality Commission
 
-### 59 Kenya National Human Rights and Equality Commission.
-  1. There is established the Kenya National Human Rights and
-Equality Commission.           
-
-  2. The functions of the Commission are-
-
-      a. to promote respect for human rights and develop a culture of human
-rights in the Republic;
-
-      b. to promote gender equality and equity generally and to coordinate
-and facilitate gender mainstreaming in national development;
-
-      c. to promote the protection, and observance of human rights in
-public and private institutions;
-
-      d. to monitor, investigate and report on the observance of human
-rights in all spheres of life in the Republic, including observance by
-the national security organs;
-
-      e. to receive and investigate complaints about alleged abuses of
-human rights and take steps to secure appropriate redress where human
-rights have been violated;
-
-      f. on its own initiative or on the basis of complaints, to
-investigate or research a matter in respect of human rights, and make
-recommendations to improve the functioning of State organs;
-
-      g. to act as the principal organ of the State in ensuring compliance
-with obligations under treaties and conventions relating to human
-rights;
-
-      h. to investigate any conduct in state affairs, or any act or
-omission in public administration in any sphere of government, that is
-alleged or suspected to be prejudicial or improper or to result in any
-impropriety or prejudice;
-
-      i.   to investigate complaints of abuse of power, unfair treatment,
-manifest injustice or unlawful, oppressive, unfair or unresponsive
-official conduct;
-
- 
-
-      j. to report on complaints investigated under paragraphs      h. and
-      i. and take remedial action; and
-
-      k. to perform any other functions prescribed by legislation.
-
-  3. Every person has the right to complain to the Commission, alleging
-that a right or fundamental freedom in the Bill of Rights has been
-denied, violated or infringed, or is threatened.
-
-  4. Parliament shall enact legislation to give full effect to this
-Part, and any such legislation may restructure the Commission into two
-or more separate commissions.
-
-  5. If Parliament enacts legislation restructuring the Commission under
-clause  4.-
-
-      a. that legislation shall assign each function of the Commission
-specified in this Article to one or the other of the successor
-commissions;
-
-      b. each of the successor commissions shall have powers equivalent to
-the powers of the Commission under this Article; and
-
-      c. each successor commission shall be a commission within the meaning
-of Chapter Fifteen, and shall have the status and powers of a commission
-under that Chapter.
-
+### 59. Kenya National Human Rights and Equality Commission.
+1. There is established the Kenya National Human Rights and Equality Commission.           
+2. The functions of the Commission are:  
+  a. to promote respect for human rights and develop a culture of human rights in the Republic;  
+  b. to promote gender equality and equity generally and to coordinate and facilitate gender mainstreaming in national development;  
+  c. to promote the protection, and observance of human rights in public and private institutions;  
+  d. to monitor, investigate and report on the observance of human rights in all spheres of life in the Republic, including observance by the national security organs;  
+  e. to receive and investigate complaints about alleged abuses of human rights and take steps to secure appropriate redress where human rights have been violated;  
+  f. on its own initiative or on the basis of complaints, to investigate or research a matter in respect of human rights, and make recommendations to improve the functioning of State organs;  
+  g. to act as the principal organ of the State in ensuring compliance with obligations under treaties and conventions relating to human rights;  
+  h. to investigate any conduct in state affairs, or any act or omission in public administration in any sphere of government, that is alleged or suspected to be prejudicial or improper or to result in any impropriety or prejudice;  
+  i. to investigate complaints of abuse of power, unfair treatment, manifest injustice or unlawful, oppressive, unfair or unresponsive official conduct;  
+  j. to report on complaints investigated under paragraphs h. and  
+  i. and take remedial action; and  
+  k. to perform any other functions prescribed by legislation.
+3. Every person has the right to complain to the Commission, alleging that a right or fundamental freedom in the Bill of Rights has been denied, violated or infringed, or is threatened.
+4. Parliament shall enact legislation to give full effect to this Part, and any such legislation may restructure the Commission into two or more separate commissions.
+5. If Parliament enacts legislation restructuring the Commission under clause 4.:  
+  a. that legislation shall assign each function of the Commission specified in this Article to one or the other of the successor commissions;  
+  b. each of the successor commissions shall have powers equivalent to the powers of the Commission under this Article; and  
+  c. each successor commission shall be a commission within the meaning of Chapter Fifteen, and shall have the status and powers of a commission under that Chapter.
 
 ## CHAPTER FIVE-LAND AND ENVIRONMENT
 
 ## Part 1-Land
 
-### 60 Principles of land policy.
+### 60. Principles of land policy.
 
   1. Land in Kenya shall be held, used and managed in a manner
 that is equitable, efficient, productive and sustainable, and in
