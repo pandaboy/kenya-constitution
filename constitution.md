@@ -32,12 +32,12 @@ We, the people of Kenya:
 1. All sovereign power belongs to the people of Kenya and shall be exercised only in accordance with this Constitution.
 2. The people may exercise their sovereign power either directly or through their democratically elected representatives.
 3. Sovereign power under this Constitution is delegated to the following State organs, which shall perform their functions in accordance with this Constitution:  
-    a. Parliament and the legislative assemblies in the county governments;  
-    b. the national executive and the executive structures in the county governments; and  
-    c. the Judiciary and independent tribunals.
-4. The sovereign power** of the people is exercised at:  
-    a. the national level; and  
-    b. the county level.
+  a. Parliament and the legislative assemblies in the county governments;  
+  b. the national executive and the executive structures in the county governments; and  
+  c. the Judiciary and independent tribunals.
+4. The sovereign power of the people is exercised at:  
+  a. the national level; and  
+  b. the county level.
 
 **2. Supremacy of this Constitution.**
 
@@ -124,203 +124,93 @@ There shall be no State religion.
 
 ## Chapter Three: Citizenship
 
-**12.** Entitlements of citizens.
+**12. Entitlements of citizens.**
 
-  1. Every citizen is entitled to-
+1. Every citizen is entitled to:  
+  a. the rights, privileges and benefits of citizenship, subject to the limits provided or permitted by this Constitution; and  
+  b. a Kenyan passport and any document of registration or identification issued by the State to citizens.  
+2. A passport or other document referred to in clause  1. b. may be denied, suspended or confiscated only in accordance with an Act of Parliament that satisfies the criteria referred to in Article 24.
 
-      a. the rights, privileges and benefits of citizenship, subject to the
-limits provided or permitted by this Constitution; and
+**13. Retention and acquisition of citizenship.**
 
-      b. a Kenyan passport and any document of registration or
-identification issued by the State to citizens.
+1. Every person who was a citizen immediately before the effective date retains the same citizenship status as of that date.
+2. Citizenship may be acquired by birth or registration.
+3. Citizenship is not lost through marriage or the dissolution of marriage.
 
-  2. A passport or other document referred to in clause   1.      b. may be
-denied, suspended or confiscated only in accordance with an Act of
-Parliament that satisfies the criteria referred to in Article 24.
+**14. Citizenship by birth.**
 
-**13.** Retention and acquisition of citizenship.
-
-  1. Every person who was a citizen immediately before the
-effective date retains the same citizenship status as of that date.
-
-  2. Citizenship may be acquired by birth or registration.
-
-  3. Citizenship is not lost through marriage or the dissolution of
-marriage.
-
-**14.** Citizenship by birth.
-
-  1. A person is a citizen by birth if on the day of the person’s
-birth, whether or not the person is born in Kenya, either the mother or
-father of the person is a citizen.
-
-  1. applies equally to a person born before the effective
-date, whether or not the person was born in Kenya, if either the mother
+1. A person is a citizen by birth if on the day of the person’s birth, whether or not the person is born in Kenya, either the mother or father of the person is a citizen.
+1. applies equally to a person born before the effective date, whether or not the person was born in Kenya, if either the mother
 or father of the person is or was a citizen.
-
-  2. Clause (1) applies equally to a person born before the effective date, whether or not the person was born in Kenya, if either the mother or father of the person is or was a citizen.
-
-  3. Parliament may enact legislation limiting the effect of clauses (1) and (2) on the descendents of Kenyan citizens who are born outside Kenya.
-
-  4. A child found in Kenya who is, or appears to be, less than eight
-years of age, and whose nationality and parents are not known, is
+2. Clause (1) applies equally to a person born before the effective date, whether or not the person was born in Kenya, if either the mother or father of the person is or was a citizen.
+3. Parliament may enact legislation limiting the effect of clauses (1) and (2) on the descendents of Kenyan citizens who are born outside Kenya.
+4. A child found in Kenya who is, or appears to be, less than eight years of age, and whose nationality and parents are not known, is
 presumed to be a citizen by birth.
+5. A person who is a Kenyan citizen by birth and who, on the effective date, has ceased to be a Kenyan citizen because the person acquired citizenship of another country, is entitled on application to regain Kenyan citizenship.
 
-  5. A person who is a Kenyan citizen by birth and who, on the effective
-date, has ceased to be a Kenyan citizen because the person acquired
-citizenship of another country, is entitled on application to regain
-Kenyan citizenship.
+**15. Citizenship by registration.**
 
-**15.** Citizenship by registration.
+1. A person who has been married to a citizen for a period of at least seven years is entitled on application to be registered as a citizen.
+2. A person who has been lawfully resident in Kenya for a continuous period of at least seven years, and who satisfies the conditions prescribed by an Act of Parliament, may apply to be registered as a citizen.
+3. A child who is not a citizen, but is adopted by a citizen, is entitled on application to be registered as a citizen.
+4. Parliament shall enact legislation establishing conditions on which citizenship may be granted to individuals who are citizens of other countries.
+5. This Article applies to a person as from the effective date, but any requirements that must be satisfied before the person is entitled to be registered as a citizen shall be regarded as having been satisfied irrespective of whether the person satisfied them before or after the effective date, or partially before, and partially after, the effective date.
 
-  1. A person who has been married to a citizen for a period of
-at least seven years is entitled on application to be registered as a
-citizen.
+**16. Dual citizenship.**
 
-  2. A person who has been lawfully resident in Kenya for a continuous
-period of at least seven years, and who satisfies the conditions
-prescribed by an Act of Parliament, may apply to be registered as a
-citizen.
+A citizen by birth does not lose citizenship by acquiring the citizenship of another country.
 
-  3. A child who is not a citizen, but is adopted by a citizen, is
-entitled on application to be registered as a citizen.
+**17. Revocation of citizenship.**
 
-  4. Parliament shall enact legislation establishing conditions on which
-citizenship may be granted to individuals who are citizens of other
-countries.
+1. If a person acquired citizenship by registration, the citizenship may be revoked if the person:  
+  a. acquired the citizenship by fraud, false representation or concealment of any material fact;  
+  b. has, during any war in which Kenya was engaged, unlawfully traded or communicated with an enemy or been engaged in or associated with any business that was knowingly carried on in such a manner as to assist an enemy in that war;  
+  c. has, within five years after registration,  been convicted of an offence and sentenced to imprisonment for a term of three years or longer; or  
+  d. has, at any time after registration,  been convicted of treason, or of an offence for which:
+    (i) a penalty of at least seven years imprisonment may be imposed; or  
+    (ii) a more severe penalty may be imposed.
+2. The citizenship of a person who was presumed to be a citizen by birth, as contemplated in Article 14  4., may be revoked if:  
+  a. the citizenship was acquired by fraud, false representation or concealment of any material fact by any person;  
+  b. the nationality or parentage of the person becomes known, and reveals that the person was a citizen of another country; or  
+  c. the age of the person becomes known, and reveals that the person was older than eight years when found in Kenya.
 
-  5. This Article applies to a person as from the effective date, but
-any requirements that must be satisfied before the person is entitled to
-be registered as a citizen shall be regarded as having been satisfied
-irrespective of whether the person satisfied them before or after the
-effective date, or partially before, and partially after, the effective
-date.
-
-**16.** Dual citizenship.
-
- A citizen by birth does not lose citizenship by acquiring the
-citizenship of another country.
-
-**17.** Revocation of citizenship.
-
-  1. If a person acquired citizenship by registration, the
-citizenship may be revoked if the person**-**
-
-      a. acquired the citizenship by fraud, false representation or
-concealment of any material fact;
-
-      b. has, during any war in which Kenya was engaged, unlawfully traded
-or communicated with an enemy or been engaged in or associated with any
-business that was knowingly carried on in such a manner as to assist an
-enemy in that war;
-
-      c. has, within five years after registration,  been convicted of an
-offence and sentenced to imprisonment for a term of three years or
-longer; or
-
-      d. has, at any time after registration,  been convicted of treason, or of an offence for which-
-
-      (i) a penalty of at least seven years imprisonment may be imposed; or
-
-      (ii) a more severe penalty may be imposed.
-
-
-  2. The citizenship of a person who was presumed to be a citizen by
-birth, as contemplated in Article 14  4., may be revoked if-
-
-      a. the citizenship was acquired by fraud, false representation or
-concealment of any material fact by any person;
-
-      b. the nationality or parentage of the person becomes known, and
-reveals that the person was a citizen of another country; or
-
-      c. the age of the person becomes known, and reveals that the person
-was older than eight years when found in Kenya.
-
-**18.** Legislation on citizenship.
-
-  Parliament shall enact legislation-
-
+**18. Legislation on citizenship.**
+Parliament shall enact legislation:
 a. prescribing procedures by which a person may become a citizen;
-
 b. governing entry into and residence in Kenya;
-
 c. providing for the status of permanent residents;
-
 d. providing for voluntary renunciation of citizenship;
-
 e. prescribing procedures for revocation of citizenship;
-
 f. prescribing the duties and rights of citizens; and
-
 g. generally giving effect to the provisions of this Chapter.
 
 ### Part 1-General Provisions Relating to the Bill of Rights
 
-**19.** Rights and fundamental freedoms.
+**19. Rights and fundamental freedoms.**
 
-  1. The Bill of Rights is an integral part of Kenya’s democratic
-state and is the framework for social, economic and cultural policies.
+1. The Bill of Rights is an integral part of Kenya’s democratic state and is the framework for social, economic and cultural policies.
+2. The purpose of recognising and protecting human rights and fundamental freedoms is to preserve the dignity of individuals and communities and to promote social justice and the realisation of the potential of all human beings.
+3. The rights and fundamental freedoms in the Bill of Rights:  
+  a. belong to each individual and are not granted by the State;  
+  b. do not exclude other rights and fundamental freedoms not in the Bill of Rights, but recognised or conferred by law, except to the extent that they are inconsistent with this Chapter; and  
+  c. are subject only to the limitations contemplated in this Constitution.
 
-  2. The purpose of recognising and protecting human rights and
-fundamental freedoms is to preserve the dignity of individuals and
-communities and to promote social justice and the realisation of the
-potential of all human beings.
+**20. Application of Bill of Rights.**
 
-  3. The rights and fundamental freedoms in the Bill of Rights-
+1. The Bill of Rights applies to all law and binds all State organs and all persons.
+2. Every person shall enjoy the rights and fundamental freedoms in the Bill of Rights to the greatest extent consistent with the nature of the right or fundamental freedom.
+3. In applying a provision of the Bill of Rights, a court shall:  
+  a. develop the law to the extent that it does not give effect to a right or fundamental freedom; and  
+  b. adopt the interpretation that most favours the enforcement of a right or fundamental freedom.
+4. In interpreting the Bill of Rights, a court, tribunal or other authority shall promote:  
+  a. the values that underlie an open and democratic society based on human dignity, equality, equity and freedom; and  
+  b. the spirit, purport and objects of the Bill of Rights.
+5. In applying any right under Article 43, if the State claims that it does not have the resources to implement the right, a court, tribunal or other authority shall be guided by the following principles:  
+  a. it is the responsibility of the State to show that the resources are not  available;  
+  b. in allocating resources, the State shall give priority to ensuring the widest possible enjoyment of the right or fundamental freedom having regard to prevailing circumstances, including the vulnerability of particular groups or individuals; and  
+  c. the court, tribunal or other authority may not interfere with a decision by a State organ concerning the allocation of available resources, solely on the basis that it would have reached a different conclusion.
 
-      a. belong to each individual and are not granted by the State;
-
-      b. do not exclude other rights and fundamental freedoms not in the
-Bill of Rights, but recognised or conferred by law, except to the extent
-that they are inconsistent with this Chapter; and
-
-      c. are subject only to the limitations contemplated in this
-Constitution.
-
-**20.** Application of Bill of Rights.
-
-  1. The Bill of Rights applies to all law and binds all State
-organs and all persons.
-
-  2. Every person shall enjoy the rights and fundamental freedoms in the
-Bill of Rights to the greatest extent consistent with the nature of the
-right or fundamental freedom.
-
-  3. In applying a provision of the Bill of Rights, a court shall-
-
-      a. develop the law to the extent that it does not give effect to a
-right or fundamental freedom; and
-
-      b. adopt the interpretation that most favours the enforcement of a
-right or fundamental freedom.
-
-  4. In interpreting the Bill of Rights, a court, tribunal or other
-authority shall promote-
-
-      a. the values that underlie an open and democratic society based on
-human dignity, equality, equity and freedom; and
-
-      b. the spirit, purport and objects of the Bill of Rights.
-
-  5. In applying any right under Article 43, if the State claims that it
-does not have the resources to implement the right, a court, tribunal or
-other authority shall be guided by the following principles-
-
-      a. it is the responsibility of the State to show that the resources
-are not  available;
-
-      b. in allocating resources, the State shall give priority to ensuring
-the widest possible enjoyment of the right or fundamental freedom having
-regard to prevailing circumstances, including the vulnerability of
-particular groups or individuals; and
-
-      c. the court, tribunal or other authority may not interfere with a
-decision by a State organ concerning the allocation of available
-resources, solely on the basis that it would have reached a different
-conclusion.
-
-**21.** Implementation of rights and fundamental freedoms.
+**21. Implementation of rights and fundamental freedoms.**
 
   1. It is a fundamental duty of the State and every State organ
 to observe, respect, protect, promote and fulfil the rights and
