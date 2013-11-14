@@ -9,25 +9,17 @@ We, the people of Kenya:
 
 **HONOURING** those who heroically struggled to bring freedom and justice to our land:
 
-**PROUD** of our ethnic, cultural and religious diversity, **and determined** to live in 
-peace and unity as one indivisible sovereign nation:
+**PROUD** of our ethnic, cultural and religious diversity, **and determined** to live in  peace and unity as one indivisible sovereign nation:
 
-**RESPECTFUL** of the environment, which is our heritage, and determined
-to sustain it for the benefit of future generations:
+**RESPECTFUL** of the environment, which is our heritage, and determined to sustain it for the benefit of future generations:
 
-**COMMITTED** to nurturing and protecting the well-being of the
-individual, the family, communities and the nation:
+**COMMITTED** to nurturing and protecting the well-being of the individual, the family, communities and the nation:
 
-**RECOGNISING** the aspirations of all Kenyans for a government based on
-the essential values of human rights, equality, freedom, democracy,
-social justice and the rule of law:
+**RECOGNISING** the aspirations of all Kenyans for a government based on the essential values of human rights, equality, freedom, democracy, social justice and the rule of law:
 
-**EXERCISING** our sovereign and inalienable right to determine the form
-of governance of our country and having participated fully in the making
-of this Constitution:
+**EXERCISING** our sovereign and inalienable right to determine the form of governance of our country and having participated fully in the making of this Constitution:
 
-**ADOPT, ENACT** and give this Constitution to ourselves and to our
-future generations.
+**ADOPT, ENACT** and give this Constitution to ourselves and to our future generations.
 
 
 **GOD BLESS KENYA**
@@ -39,13 +31,13 @@ future generations.
 
 1. All sovereign power belongs to the people of Kenya and shall be exercised only in accordance with this Constitution.
 2. The people may exercise their sovereign power either directly or through their democratically elected representatives.
-3. Sovereign power under this Constitution is delegated to the following State organs, which shall perform their functions in accordance with this Constitution: and removeing som
-  a. Parliament and the legislative assemblies in the county governments;
-  b. the national executive and the executive structures in the county governments; and
-  c. the Judiciary and independent tribunals.
+3. Sovereign power under this Constitution is delegated to the following State organs, which shall perform their functions in accordance with this Constitution:
+    a. Parliament and the legislative assemblies in the county governments;
+    b. the national executive and the executive structures in the county governments; and
+    c. the Judiciary and independent tribunals.
 4. The sovereign power** of the people is exercised at:
-  a. the national level; and
-  b. the county level.
+    a. the national level; and
+    b. the county level.
 
 **2. Supremacy of this Constitution.**
 
