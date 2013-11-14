@@ -52,22 +52,18 @@ We, the people of Kenya:
 # Chapter Two: The Republic
 
 ### 4. Declaration of the Republic.
-
 1. Kenya is a sovereign Republic.
 2. The Republic of Kenya shall be a multi-party democratic State founded on the national values and principles of governance referred to in Article 10.
 
 ### 5. Territory of Kenya.
-
 Kenya consists of the territory and territorial waters comprising Kenya on the effective date, and any additional territory and territorial waters as defined by an Act of Parliament.
 
 ### 6. Devolution and access to services.
-
 1. The territory of Kenya is divided into the counties specified  in the First Schedule.
 2. The governments at the national and county levels are distinct and inter-dependent and shall conduct their mutual relations on the basis of consultation and cooperation.
 3. A national State organ shall ensure reasonable access to its services in all parts of the Republic, so far as it is appropriate to do so having regard to the nature of the service.
 
 ### 7. National, official and other languages.
-
 1. The national language of the Republic is Kiswahili.
 2. The official languages of the Republic are Kiswahili and English.
 3. The State shall:  
@@ -75,11 +71,9 @@ Kenya consists of the territory and territorial waters comprising Kenya on the e
   b. promote the development and use of indigenous languages, Kenyan Sign language, Braille and other communication formats and technologies accessible to persons with disabilities.
 
 ### 8. State and Religion.
-
 There shall be no State religion.
 
 ### 9. National symbols and national days.
-
 1. The national symbols of the Republic are:  
   a. the national flag;  
   b. the national anthem;  
@@ -94,7 +88,6 @@ There shall be no State religion.
 5. Parliament may enact legislation prescribing other public holidays, and providing for observance of public holidays.
 
 ### 10. National values and principles of governance.
-
 1. The national values and principles of governance in this Article bind all State organs, State officers, public officers and all persons whenever any of them:
   a. applies or interprets this Constitution;  
   b. enacts, applies or interprets any law; or  
@@ -106,7 +99,6 @@ There shall be no State religion.
   d. sustainable development.
 
 ### 11. Culture.
-
 1. This Constitution recognises culture as the foundation of the nation and as the cumulative civilization of the Kenyan people and nation.
 2. The State shall:  
   a. promote all forms of national and cultural expression through literature, the arts, traditional celebrations, science, communication, information, mass media, publications, libraries and other cultural heritage;  
@@ -116,24 +108,20 @@ There shall be no State religion.
   a. ensure that communities receive compensation or royalties for the use of their cultures and cultural heritage; and  
   b. recognise and protect the ownership of indigenous seeds and plant varieties, their genetic and diverse characteristics and their use by the communities of Kenya.
 
-
 # Chapter Three: Citizenship
 
 ### 12. Entitlements of citizens.
-
 1. Every citizen is entitled to:  
   a. the rights, privileges and benefits of citizenship, subject to the limits provided or permitted by this Constitution; and  
   b. a Kenyan passport and any document of registration or identification issued by the State to citizens.  
 2. A passport or other document referred to in clause  1. b. may be denied, suspended or confiscated only in accordance with an Act of Parliament that satisfies the criteria referred to in Article 24.
 
 ### 13. Retention and acquisition of citizenship.
-
 1. Every person who was a citizen immediately before the effective date retains the same citizenship status as of that date.
 2. Citizenship may be acquired by birth or registration.
 3. Citizenship is not lost through marriage or the dissolution of marriage.
 
 ### 14. Citizenship by birth.
-
 1. A person is a citizen by birth if on the day of the person’s birth, whether or not the person is born in Kenya, either the mother or father of the person is a citizen.
 1. applies equally to a person born before the effective date, whether or not the person was born in Kenya, if either the mother
 or father of the person is or was a citizen.
@@ -144,7 +132,6 @@ presumed to be a citizen by birth.
 5. A person who is a Kenyan citizen by birth and who, on the effective date, has ceased to be a Kenyan citizen because the person acquired citizenship of another country, is entitled on application to regain Kenyan citizenship.
 
 ### 15. Citizenship by registration.
-
 1. A person who has been married to a citizen for a period of at least seven years is entitled on application to be registered as a citizen.
 2. A person who has been lawfully resident in Kenya for a continuous period of at least seven years, and who satisfies the conditions prescribed by an Act of Parliament, may apply to be registered as a citizen.
 3. A child who is not a citizen, but is adopted by a citizen, is entitled on application to be registered as a citizen.
@@ -152,16 +139,14 @@ presumed to be a citizen by birth.
 5. This Article applies to a person as from the effective date, but any requirements that must be satisfied before the person is entitled to be registered as a citizen shall be regarded as having been satisfied irrespective of whether the person satisfied them before or after the effective date, or partially before, and partially after, the effective date.
 
 ### 16. Dual citizenship.
-
 A citizen by birth does not lose citizenship by acquiring the citizenship of another country.
 
 ### 17. Revocation of citizenship.
-
 1. If a person acquired citizenship by registration, the citizenship may be revoked if the person:  
   a. acquired the citizenship by fraud, false representation or concealment of any material fact;  
   b. has, during any war in which Kenya was engaged, unlawfully traded or communicated with an enemy or been engaged in or associated with any business that was knowingly carried on in such a manner as to assist an enemy in that war;  
   c. has, within five years after registration,  been convicted of an offence and sentenced to imprisonment for a term of three years or longer; or  
-  d. has, at any time after registration,  been convicted of treason, or of an offence for which:
+  d. has, at any time after registration,  been convicted of treason, or of an offence for which:  
     (i) a penalty of at least seven years imprisonment may be imposed; or  
     (ii) a more severe penalty may be imposed.
 2. The citizenship of a person who was presumed to be a citizen by birth, as contemplated in Article 14  4., may be revoked if:  
@@ -170,7 +155,6 @@ A citizen by birth does not lose citizenship by acquiring the citizenship of ano
   c. the age of the person becomes known, and reveals that the person was older than eight years when found in Kenya.
 
 ### 18. Legislation on citizenship.
-
 Parliament shall enact legislation:  
 a. prescribing procedures by which a person may become a citizen;  
 b. governing entry into and residence in Kenya;  
@@ -183,7 +167,6 @@ g. generally giving effect to the provisions of this Chapter.
 ## Part 1-General Provisions Relating to the Bill of Rights
 
 ### 19. Rights and fundamental freedoms.
-
 1. The Bill of Rights is an integral part of Kenya’s democratic state and is the framework for social, economic and cultural policies.
 2. The purpose of recognising and protecting human rights and fundamental freedoms is to preserve the dignity of individuals and communities and to promote social justice and the realisation of the potential of all human beings.
 3. The rights and fundamental freedoms in the Bill of Rights:  
@@ -192,7 +175,6 @@ g. generally giving effect to the provisions of this Chapter.
   c. are subject only to the limitations contemplated in this Constitution.
 
 ### 20. Application of Bill of Rights.
-
 1. The Bill of Rights applies to all law and binds all State organs and all persons.
 2. Every person shall enjoy the rights and fundamental freedoms in the Bill of Rights to the greatest extent consistent with the nature of the right or fundamental freedom.
 3. In applying a provision of the Bill of Rights, a court shall:  
@@ -207,399 +189,165 @@ g. generally giving effect to the provisions of this Chapter.
   c. the court, tribunal or other authority may not interfere with a decision by a State organ concerning the allocation of available resources, solely on the basis that it would have reached a different conclusion.
 
 ### 21. Implementation of rights and fundamental freedoms.
-
-  1. It is a fundamental duty of the State and every State organ
-to observe, respect, protect, promote and fulfil the rights and
-fundamental freedoms in the Bill of Rights.
-
-  2. The State shall take legislative, policy and other measures,
-including the setting of standards, to achieve the progressive
-realisation of the rights guaranteed under Article 43.
-
-  3. All State organs and all public officers have the duty to address
-the needs of vulnerable groups within society, including women, older
-members of society, persons with disabilities, children, youth, members
-of minority or marginalised communities, and members of particular
-ethnic, religious or cultural communities.
-
-  4. The State shall enact and implement legislation to fulfil its
+1. It is a fundamental duty of the State and every State organ to observe, respect, protect, promote and fulfil the rights and fundamental freedoms in the Bill of Rights.
+2. The State shall take legislative, policy and other measures, including the setting of standards, to achieve the progressive realisation of the rights guaranteed under Article 43.
+3. All State organs and all public officers have the duty to address the needs of vulnerable groups within society, including women, older members of society, persons with disabilities, children, youth, members of minority or marginalised communities, and members of particular ethnic, religious or cultural communities.
+4. The State shall enact and implement legislation to fulfil its
 international obligations in respect of human rights and fundamental
 freedoms.
 
 ### 22. Enforcement of Bill of Rights.
-
-  1. Every person has the right to institute court proceedings
+1. Every person has the right to institute court proceedings
 claiming that a right or fundamental freedom in the Bill of Rights has
 been denied, violated or infringed, or is threatened.
-
-  2. In addition to a person acting in their own interest, court
-proceedings under clause  1. may be instituted by-
-
-      a. a person acting on behalf of another person who cannot act in
-their own name;
-
-      b. a person acting as a member of, or in the interest of, a group or
-class of persons;
-
-      c. a person acting in the public interest; or
-
-      d. an association acting in the interest of one or more of its
-members.
-
-  3. The Chief Justice shall make rules providing for the court
-proceedings referred to in this Article, which shall satisfy the
-criteria that-
-
-      a. the rights of standing provided for in clause  2. are fully
-facilitated;
-
-      b. formalities relating to the proceedings, including commencement
-of  the proceedings, are kept to the minimum, and in particular that the
-court shall, if necessary, entertain proceedings on the basis of
-informal documentation;
-
-      c. no fee may be charged for commencing the proceedings;
-
-      d. the court, while observing the rules of natural justice, shall not
-be unreasonably restricted by procedural technicalities; and
-
-      e. an organisation or individual with particular expertise may, with
-the leave of the court, appear as a friend of the court.
-
-  4. The absence of rules contemplated in clause  3. does not limit the
-right of any person to commence court proceedings under this Article,
-and to have the matter heard and determined by a court.
+2. In addition to a person acting in their own interest, court
+proceedings under clause  1. may be instituted by:  
+  a. a person acting on behalf of another person who cannot act in
+their own name;  
+  b. a person acting as a member of, or in the interest of, a group or class of persons;  
+  c. a person acting in the public interest; or  
+  d. an association acting in the interest of one or more of its members.  
+3. The Chief Justice shall make rules providing for the court proceedings referred to in this Article, which shall satisfy the criteria that:  
+  a. the rights of standing provided for in clause  2. are fully facilitated;  
+  b. formalities relating to the proceedings, including commencement of the proceedings, are kept to the minimum, and in particular that the court shall, if necessary, entertain proceedings on the basis of informal documentation;  
+  c. no fee may be charged for commencing the proceedings;  
+  d. the court, while observing the rules of natural justice, shall not be unreasonably restricted by procedural technicalities; and  
+  e. an organisation or individual with particular expertise may, with the leave of the court, appear as a friend of the court.  
+4. The absence of rules contemplated in clause  3. does not limit the right of any person to commence court proceedings under this Article, and to have the matter heard and determined by a court.
 
 ### 23. Authority of courts to uphold and enforce the Bill of Rights.
-
-  1. The High Court has jurisdiction, in accordance with Article
-165, to hear and determine applications for redress of a denial,
-violation or infringement of, or threat to, a right or fundamental
-freedom in the Bill of Rights.
-
-  2. Parliament shall enact legislation to give original jurisdiction in
-appropriate cases to subordinate courts to hear and determine
-applications for redress of a denial, violation or infringement of, or
-threat to, a right or fundamental freedom in the Bill of Rights.
-
-  3. In any proceedings brought under Article 22, a court may grant
-appropriate  relief, including-
-
-      a. a declaration of rights;
-
-      b. an injunction;
-
-      c. a conservatory order;
-
-      d. a declaration of invalidity of any law that denies, violates,
-infringes, or threatens a right or fundamental freedom in the Bill of
-Rights and is not justified under Article 24;
-
-      e. an order for compensation; and
-
-      f.   an order of judicial review.
-
-
+1. The High Court has jurisdiction, in accordance with Article 165, to hear and determine applications for redress of a denial, violation or infringement of, or threat to, a right or fundamental freedom in the Bill of Rights.
+2. Parliament shall enact legislation to give original jurisdiction in appropriate cases to subordinate courts to hear and determine applications for redress of a denial, violation or infringement of, or threat to, a right or fundamental freedom in the Bill of Rights.
+3. In any proceedings brought under Article 22, a court may grant appropriate  relief, including:  
+  a. a declaration of rights;  
+  b. an injunction;  
+  c. a conservatory order;  
+  d. a declaration of invalidity of any law that denies, violates, infringes, or threatens a right or fundamental freedom in the Bill of Rights and is not justified under Article 24;  
+  e. an order for compensation; and  
+  f. an order of judicial review.
 
 ### 24.   Limitation of rights and fundamental freedoms.
-
-1. A right or fundamental freedom in the Bill of Rights shall
-not be limited except by law, and then only to the extent that the
-limitation is reasonable and justifiable in an open and democratic
-society based on human dignity, equality and freedom, taking into
-account all relevant factors, including-
-
-      a. the nature of the right or fundamental freedom;
-
-      b. the importance of the purpose of the limitation;
-
-      c. the nature and extent of the limitation;
-
-      d. the need to ensure that the enjoyment of rights and fundamental 
-freedoms by any individual does not prejudice the rights and fundamental
-freedoms of others; and
-
-      e. the relation between the limitation and its purpose and whether
-there are less restrictive means to achieve the purpose.
-
-
-  2. Despite clause   1., a provision in legislation limiting a right or
-fundamental freedom-
-
-      a. in the case of a provision enacted or amended on or after the
-effective date, is not valid unless the legislation specifically
-expresses the intention to limit that right or fundamental freedom, and
-the nature and extent of the limitation;
-
-      b. shall not be construed as limiting the right or fundamental
-freedom unless the provision is clear and specific about the right or
-freedom to be limited and the nature and extent of the limitation; and
-
-      c. shall not limit the right or fundamental freedom so far as to
-derogate from its core or essential content.
-
-  3. The State or a person seeking to justify a particular limitation
-shall demonstrate to the court, tribunal or other authority that the
-requirements of this Article have been satisfied.
-
-  4. The provisions of this Chapter on equality shall be qualified to
-the extent strictly necessary for the application of Muslim law before
-the Kadhis’ courts, to persons who profess the Muslim religion, in
-matters relating to personal status, marriage, divorce and inheritance.
-
-  5. Despite clause   1. and  2., a provision in legislation may limit
-the application of the rights or fundamental freedoms in the following
-provisions to persons serving in the Kenya Defence Forces or the
-National Police Service-
-
-      a. Article 31-Privacy;
-
-      b. Article 36-Freedom of association;
-
-      c. Article 37-Assembly, demonstration, picketing and petition;
-
-      d. Article 41-Labour relations;
-
-      e. Article 43-Economic and social rights; and
-
-      f. Article 49-Rights of arrested persons.
+1. A right or fundamental freedom in the Bill of Rights shall not be limited except by law, and then only to the extent that the limitation is reasonable and justifiable in an open and democratic society based on human dignity, equality and freedom, taking into account all relevant factors, including:  
+  a. the nature of the right or fundamental freedom;  
+  b. the importance of the purpose of the limitation;  
+  c. the nature and extent of the limitation;  
+  d. the need to ensure that the enjoyment of rights and fundamental freedoms by any individual does not prejudice the rights and fundamental freedoms of others; and  
+  e. the relation between the limitation and its purpose and whether there are less restrictive means to achieve the purpose.
+2. Despite clause 1., a provision in legislation limiting a right or fundamental freedom:  
+  a. in the case of a provision enacted or amended on or after the effective date, is not valid unless the legislation specifically expresses the intention to limit that right or fundamental freedom, and the nature and extent of the limitation;
+  b. shall not be construed as limiting the right or fundamental freedom unless the provision is clear and specific about the right or freedom to be limited and the nature and extent of the limitation; and  
+  c. shall not limit the right or fundamental freedom so far as to derogate from its core or essential content.
+3. The State or a person seeking to justify a particular limitation shall demonstrate to the court, tribunal or other authority that the requirements of this Article have been satisfied.
+4. The provisions of this Chapter on equality shall be qualified to the extent strictly necessary for the application of Muslim law before the Kadhis’ courts, to persons who profess the Muslim religion, in matters relating to personal status, marriage, divorce and inheritance.
+5. Despite clause 1. and  2., a provision in legislation may limit the application of the rights or fundamental freedoms in the following provisions to persons serving in the Kenya Defence Forces or the National Police Service:  
+a. Article 31-Privacy;  
+b. Article 36-Freedom of association;  
+c. Article 37-Assembly, demonstration, picketing and petition;  
+d. Article 41-Labour relations;  
+e. Article 43-Economic and social rights; and  
+f. Article 49-Rights of arrested persons.
 
 ### 25. Fundamental Rights and freedoms that may not be limited.
-
-Despite any other provision in this Constitution, the following
-rights and fundamental freedoms shall not be limited-
-
-  a. freedom from torture and cruel, inhuman or degrading treatment or
-  punishment;
-
-  b. freedom from slavery or servitude;
-
-  c. the right to a fair trial; and
-
-  d. the right to an order of *habeas corpus.
+Despite any other provision in this Constitution, the following rights and fundamental freedoms shall not be limited:  
+a. freedom from torture and cruel, inhuman or degrading treatment or punishment;  
+b. freedom from slavery or servitude;  
+c. the right to a fair trial; and  
+d. the right to an order of *habeas corpus.
 
 ## Part 2-Rights and Fundamental Freedoms
 
 ### 26. Right to life.
-
-  1. Every person has the right to life.
-
-  2. The life of a person begins at conception.
-
-  3. A person shall not be deprived of life intentionally, except to the
-extent authorised by this Constitution or other written law.
-
-  4. Abortion is not permitted unless, in the opinion of a trained
-health professional, there is need for emergency treatment, or the life
-or health of the mother is in danger, or if permitted by any other
-written law.
-
+1. Every person has the right to life.
+2. The life of a person begins at conception.
+3. A person shall not be deprived of life intentionally, except to the extent authorised by this Constitution or other written law.
+4. Abortion is not permitted unless, in the opinion of a trained health professional, there is need for emergency treatment, or the life or health of the mother is in danger, or if permitted by any other written law.
 
 ### 27. Equality and freedom from discrimination.
-
-  1. Every person is equal before the law and has the right to
-equal protection and equal benefit of the law.
-
-  2. Equality includes the full and equal enjoyment of all rights and
-fundamental freedoms.
-
-  3. Women and men^^have the right to equal treatment, including the
-right to equal opportunities in political, economic, cultural and social
-spheres.
-
-  4. The State shall not discriminate directly or indirectly against any
-person on any ground, including race, sex, pregnancy, marital status,
-health status, ethnic or social origin, colour, age, disability,
-religion, conscience, belief, culture, dress, language or birth.
-
-  5. A person shall not discriminate directly or indirectly against
-another person on any of the grounds specified or contemplated in clause 4..
-
-  6. To give full effect to the realisation of the rights guaranteed
-under this Article, the State shall take legislative and other measures,
-including affirmative action programmes and policies designed to redress
-any disadvantage suffered by individuals or groups because of past
-discrimination.
-
-  7. Any measure taken under clause   6. shall adequately provide for any
-benefits to be on the basis of genuine need.
-
-  8. In addition to the measures contemplated in clause   6., the State
-shall take legislative and other measures to implement the principle
-that not more than two-thirds of the members of elective or appointive
-bodies shall be of the same gender.
+1. Every person is equal before the law and has the right to equal protection and equal benefit of the law.
+2. Equality includes the full and equal enjoyment of all rights and fundamental freedoms.
+3. Women and men^^have the right to equal treatment, including the right to equal opportunities in political, economic, cultural and social spheres.4. The State shall not discriminate directly or indirectly against any person on any ground, including race, sex, pregnancy, marital status, health status, ethnic or social origin, colour, age, disability, religion, conscience, belief, culture, dress, language or birth.
+5. A person shall not discriminate directly or indirectly against another person on any of the grounds specified or contemplated in clause 4..
+6. To give full effect to the realisation of the rights guaranteed under this Article, the State shall take legislative and other measures, including affirmative action programmes and policies designed to redress any disadvantage suffered by individuals or groups because of past discrimination.
+7. Any measure taken under clause 6. shall adequately provide for any benefits to be on the basis of genuine need.
+8. In addition to the measures contemplated in clause 6., the State shall take legislative and other measures to implement the principle that not more than two-thirds of the members of elective or appointive bodies shall be of the same gender.
 
 ### 28. Human dignity.
-
- Every person has inherent dignity and the right to have that
-dignity respected and protected.
+Every person has inherent dignity and the right to have that dignity respected and protected.
 
 ### 29. Freedom and security of the person.
-
- Every person has the right to freedom and security of the
-person, which includes the right not to be-
-
-  a. deprived of freedom arbitrarily or without just cause;
-
-  b. detained without trial, except during a state of emergency, in
-which case the detention is subject to Article 58;
-
-  c. subjected to any form of violence from either public or private
-sources;
-
-  d. subjected to torture in any manner, whether physical or
-psychological;
-
-  e. subjected to corporal punishment; or
-
-  f. treated or punished in a cruel, inhuman or degrading manner.
+Every person has the right to freedom and security of the person, which includes the right not to be:  
+a. deprived of freedom arbitrarily or without just cause;  
+b. detained without trial, except during a state of emergency, in which case the detention is subject to Article 58;  
+c. subjected to any form of violence from either public or private sources;  
+d. subjected to torture in any manner, whether physical or psychological;  
+e. subjected to corporal punishment; or  
+f. treated or punished in a cruel, inhuman or degrading manner.
 
 ### 30. Slavery, servitude and forced labour.
-
-  1. A person shall not be held in slavery or servitude.
-
-  2. A person shall not be required to perform forced labour.
+1. A person shall not be held in slavery or servitude.
+2. A person shall not be required to perform forced labour.
 
 ### 31. Privacy.
-
-Every person has the right to privacy, which includes the right
-not to have-
-
-  a. their person, home or property searched;
-
-  b. their possessions seized;
-
-  c. information relating to their family or private affairs
-unnecessarily required or revealed; or
-
-  d. the privacy of their communications infringed.
+Every person has the right to privacy, which includes the right not to have:  
+a. their person, home or property searched;  
+b. their possessions seized;  
+c. information relating to their family or private affairs unnecessarily required or revealed; or  
+d. the privacy of their communications infringed.  
 
 ### 32. Freedom of conscience, religion, belief and opinion.
-
-  1. Every person has the right to freedom of conscience,
-religion, thought, belief and opinion.
-
-  2. Every person has the right, either individually or in community
-with others, in public or in private, to manifest any religion or belief
-through worship, practice, teaching or observance, including observance
-of a day of worship.
-
-  3. A person may not be denied access to any institution, employment or
-facility, or the enjoyment of any right, because of the person’s belief
-or religion.
-
-  4. A person shall not be compelled to act, or engage in any act, that
-is contrary to the person’s belief or religion.
+1. Every person has the right to freedom of conscience, religion, thought, belief and opinion.
+2. Every person has the right, either individually or in community with others, in public or in private, to manifest any religion or belief through worship, practice, teaching or observance, including observance of a day of worship.
+3. A person may not be denied access to any institution, employment or facility, or the enjoyment of any right, because of the person’s belief or religion.
+4. A person shall not be compelled to act, or engage in any act, that is contrary to the person’s belief or religion.
 
 ### 33. Freedom of expression.
-
-  1. Every person has the right to freedom of expression, which
-includes-
-
-      a. freedom to seek, receive or impart information or ideas;
-
-      b. freedom of artistic creativity; and
-
-      c. academic freedom and freedom of scientific research.
-
-  2. The right to freedom of expression does not extend to-
-
-      a. propaganda for war;
-
-      b. incitement to violence;
-
-      c. hate speech; or
-
-      d. advocacy of hatred that-
-
-      ​(i) constitutes ethnic incitement, vilification of others or incitement
-      to cause harm; or
-
-      ​(ii) is based on any ground of discrimination specified or contemplated
-      in Article 27   4..
-
-  3. In the exercise of the right to freedom of expression, every person
-shall respect the rights and reputation of others.
+1. Every person has the right to freedom of expression, which includes:  
+  a. freedom to seek, receive or impart information or ideas;  
+  b. freedom of artistic creativity; and  
+  c. academic freedom and freedom of scientific research.
+2. The right to freedom of expression does not extend to:  
+  a. propaganda for war;  
+  b. incitement to violence;  
+  c. hate speech; or  
+  d. advocacy of hatred that:  
+    ​(i) constitutes ethnic incitement, vilification of others or incitement to cause harm; or  
+    ​(ii) is based on any ground of discrimination specified or contemplated in Article 27 4..  
+3. In the exercise of the right to freedom of expression, every person shall respect the rights and reputation of others.
 
 ### 34. Freedom of the media.
-
-  1. Freedom and independence of electronic, print and all other
-types of media is guaranteed, but does not extend to any expression
-specified in Article 33   2..
-
-  2. The State shall not-
-
-      a. exercise control over or interfere with any person engaged in
-broadcasting, the production or circulation of any publication or the
-dissemination of information by any medium; or
-
-      b. penalise any person for any opinion or view or the content of any
-broadcast, publication or dissemination.
-
-  3. Broadcasting and other electronic media have freedom of
-establishment, subject only to licensing procedures that-
-
-      a. are necessary to regulate the airwaves and other forms of signal
-distribution; and
-
-      b. are independent of control by government, political interests or
-commercial interests.
-
-  4. All State-owned media shall-
-
-      a. be free to determine independently the editorial content of their
-broadcasts or other communications;
-
-      b. be impartial; and
-
-      c. afford fair opportunity for the presentation of divergent views
-and dissenting opinions.
-
-  5. Parliament shall enact legislation that provides for the
-establishment of a body, which shall-
-
-      a. be independent of control by government, political interests or
-commercial interests;
-
-      b. reflect the interests of all sections of the society; and
-
-      c. set media standards and regulate and monitor compliance with those
-standards.
+1. Freedom and independence of electronic, print and all other types of media is guaranteed, but does not extend to any expression specified in Article 33 2..
+2. The State shall not:  
+  a. exercise control over or interfere with any person engaged in broadcasting, the production or circulation of any publication or the dissemination of information by any medium; or
+  b. penalise any person for any opinion or view or the content of any broadcast, publication or dissemination.
+3. Broadcasting and other electronic media have freedom of establishment, subject only to licensing procedures that:  
+  a. are necessary to regulate the airwaves and other forms of signal distribution; and  
+  b. are independent of control by government, political interests or commercial interests.
+4. All State-owned media shall:  
+  a. be free to determine independently the editorial content of their broadcasts or other communications;  
+  b. be impartial; and  
+  c. afford fair opportunity for the presentation of divergent views and dissenting opinions.  
+5. Parliament shall enact legislation that provides for the establishment of a body, which shall:  
+  a. be independent of control by government, political interests or commercial interests;  
+  b. reflect the interests of all sections of the society; and  
+  c. set media standards and regulate and monitor compliance with those standards.  
 
 ### 35. Access to information.
-
-  1. Every citizen has the right of access to-
-
-      a. information held by the State; and
-
-      b. information held by another person and required for the exercise
-or protection of any right or fundamental freedom.
-
-  2. Every person has the right to the correction or deletion of untrue
-or misleading information that affects the person.
-
-  3. The State shall publish and publicise any important information affecting the nation.
+1. Every citizen has the right of access to:  
+  a. information held by the State; and  
+  b. information held by another person and required for the exercise or protection of any right or fundamental freedom.
+2. Every person has the right to the correction or deletion of untrue or misleading information that affects the person.
+3. The State shall publish and publicise any important information affecting the nation.
 
 ### 36. Freedom of association.
-
-  1. Every person has the right to freedom of association, which
-includes the right to form, join or participate in the activities of an
-association of any kind.
-
-  2. A person shall not be compelled to join an association of any kind.
-
-  3. Any legislation that requires registration of an association of any
-kind shall provide that-
-
-      a. registration may not be withheld or withdrawn unreasonably; and
-
-      b. there shall be a right to have a fair hearing before a
-registration is cancelled.
+1. Every person has the right to freedom of association, which includes the right to form, join or participate in the activities of an association of any kind.
+2. A person shall not be compelled to join an association of any kind.
+3. Any legislation that requires registration of an association of any
+kind shall provide that:  
+  a. registration may not be withheld or withdrawn unreasonably; and  
+  b. there shall be a right to have a fair hearing before a registration is cancelled.
 
 ### 37. Assembly, demonstration, picketing and petition.
-
-Every person has the right, peaceably and unarmed, to assemble,
-to demonstrate, to picket, and to present petitions to public
+Every person has the right, peaceably and unarmed, to assemble, to demonstrate, to picket, and to present petitions to public
 authorities.
 
 ### 38. Political rights.
