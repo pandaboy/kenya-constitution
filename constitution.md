@@ -276,12 +276,12 @@ Every person has inherent dignity and the right to have that dignity respected a
 
 ### 29. Freedom and security of the person.
 Every person has the right to freedom and security of the person, which includes the right not to be:  
-a. deprived of freedom arbitrarily or without just cause;  
-b. detained without trial, except during a state of emergency, in which case the detention is subject to Article 58;  
-c. subjected to any form of violence from either public or private sources;  
-d. subjected to torture in any manner, whether physical or psychological;  
-e. subjected to corporal punishment; or  
-f. treated or punished in a cruel, inhuman or degrading manner.
+  a. deprived of freedom arbitrarily or without just cause;  
+  b. detained without trial, except during a state of emergency, in which case the detention is subject to Article 58;  
+  c. subjected to any form of violence from either public or private sources;  
+  d. subjected to torture in any manner, whether physical or psychological;  
+  e. subjected to corporal punishment; or  
+  f. treated or punished in a cruel, inhuman or degrading manner.
 
 ### 30. Slavery, servitude and forced labour.
 1. A person shall not be held in slavery or servitude.
