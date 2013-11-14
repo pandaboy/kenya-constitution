@@ -21,7 +21,7 @@ We, the people of Kenya:
 
 **ADOPT, ENACT** and give this Constitution to ourselves and to our future generations.
 
-**GOD BLESS KENYA** {style="text-align:center"}
+**GOD BLESS KENYA**
 
 
 # Chapter One: Sovereignty of the People and Supremacy of this Constitution
