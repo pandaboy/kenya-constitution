@@ -289,10 +289,10 @@ Every person has the right to freedom and security of the person, which includes
 
 ### 31. Privacy.
 Every person has the right to privacy, which includes the right not to have:  
-a. their person, home or property searched;  
-b. their possessions seized;  
-c. information relating to their family or private affairs unnecessarily required or revealed; or  
-d. the privacy of their communications infringed.  
+  a. their person, home or property searched;  
+  b. their possessions seized;  
+  c. information relating to their family or private affairs unnecessarily required or revealed; or  
+  d. the privacy of their communications infringed.  
 
 ### 32. Freedom of conscience, religion, belief and opinion.
 1. Every person has the right to freedom of conscience, religion, thought, belief and opinion.
@@ -310,8 +310,8 @@ d. the privacy of their communications infringed.
   b. incitement to violence;  
   c. hate speech; or  
   d. advocacy of hatred that:  
-    ​(i) constitutes ethnic incitement, vilification of others or incitement to cause harm; or  
-    ​(ii) is based on any ground of discrimination specified or contemplated in Article 27 4..  
+    ​  (i) constitutes ethnic incitement, vilification of others or incitement to cause harm; or  
+    ​  (ii) is based on any ground of discrimination specified or contemplated in Article 27 4..  
 3. In the exercise of the right to freedom of expression, every person shall respect the rights and reputation of others.
 
 ### 34. Freedom of the media.
@@ -351,380 +351,156 @@ Every person has the right, peaceably and unarmed, to assemble, to demonstrate, 
 authorities.
 
 ### 38. Political rights.
-
-  1. Every citizen is free to make political choices, which
-includes the right-
-
-      a. to form, or participate in forming, a political party;
-
-      b. to participate in the activities of, or recruit members for, a
-political party; or
-
-      c. to campaign for a political party or cause.
-
-  2. Every citizen has the right to free, fair and regular elections
-based on universal suffrage and the free expression of the will of the
-electors for-
-
-      a. any elective public body or office established under this
-Constitution; or
-
-      b. any office  of any political party of which the citizen is a
-member.
-
-  3. Every adult citizen has the right, without unreasonable
-restrictions-
-
-      a. to be registered as a voter;
-
-      b. to vote by secret ballot in any election or referendum; and
-
-      c. to be a candidate for public office, or office within a political
-party of which  the citizen is  a member and, if elected, to hold
-office.
+1. Every citizen is free to make political choices, which includes the right:  
+  a. to form, or participate in forming, a political party;  
+  b. to participate in the activities of, or recruit members for, a political party; or  
+  c. to campaign for a political party or cause.
+2. Every citizen has the right to free, fair and regular elections based on universal suffrage and the free expression of the will of the electors for:  
+  a. any elective public body or office established under this Constitution; or  
+  b. any office  of any political party of which the citizen is a member.
+3. Every adult citizen has the right, without unreasonable restrictions:  
+  a. to be registered as a voter;  
+  b. to vote by secret ballot in any election or referendum; and  
+  c. to be a candidate for public office, or office within a political party of which  the citizen is  a member and, if elected, to hold office.
 
 ### 39. Freedom of movement and residence.
-
-  1. Every person has the right to freedom of movement.
-
-  2. Every person has the right to leave Kenya.
-
-  3. Every citizen has the right to enter, remain in and reside anywhere
-in Kenya.
+1. Every person has the right to freedom of movement.
+2. Every person has the right to leave Kenya.
+3. Every citizen has the right to enter, remain in and reside anywhere in Kenya.
 
 ### 40. Protection of right to property.
-
-  1. Subject to Article 65, every person has the right, either
-individually or in association with others, to acquire and own property-
-
-      a. of any description; and
-
-      b. in any part of Kenya.
-
-  2. Parliament shall not enact a law that permits the State or any
-person-
-
-      a. to arbitrarily deprive a person of property of any description or
-of any interest in, or right over, any property of any description; or
-
-      b. to limit, or in any way restrict the enjoyment of any right under
-this Article on the basis of any of the grounds specified or
-contemplated in Article 27  4..
-
-  3. The State shall not deprive a person of property of any
-description, or of any interest in, or right over, property of any
-description, unless the deprivation-
-
-      a. results from an acquisition of land or an interest in land or a
-conversion of an interest in land, or title to land, in accordance with
-Chapter Five; or
-
-      b. is for a public purpose or in the public interest and is carried
-out in accordance with this Constitution and any Act of Parliament that-
-
-      (i) requires prompt payment in full, of just compensation to the
-      person; and
-
-      (ii) allows any person who has an interest in, or right over, that
-      property a right of access to a court of law.
-
-  4. Provision may be made for compensation to be paid to occupants in
-good faith of land acquired under clause  3. who may not hold title to
-the land.
-
-  5. The State shall support, promote and protect the intellectual
-property rights of the people of Kenya.
-
-  6. The rights under this Article do not extend to any property that
-has been found to have been unlawfully acquired.
+1. Subject to Article 65, every person has the right, either individually or in association with others, to acquire and own property:  
+  a. of any description; and  
+  b. in any part of Kenya.
+2. Parliament shall not enact a law that permits the State or any person:  
+  a. to arbitrarily deprive a person of property of any description or of any interest in, or right over, any property of any description; or  
+  b. to limit, or in any way restrict the enjoyment of any right under this Article on the basis of any of the grounds specified or contemplated in Article 27  4..
+3. The State shall not deprive a person of property of any description, or of any interest in, or right over, property of any description, unless the deprivation:  
+  a. results from an acquisition of land or an interest in land or a conversion of an interest in land, or title to land, in accordance with Chapter Five; or  
+  b. is for a public purpose or in the public interest and is carried out in accordance with this Constitution and any Act of Parliament that:  
+    (i) requires prompt payment in full, of just compensation to the person; and  
+    (ii) allows any person who has an interest in, or right over, that property a right of access to a court of law.  
+4. Provision may be made for compensation to be paid to occupants in good faith of land acquired under clause  3. who may not hold title to the land.
+5. The State shall support, promote and protect the intellectual property rights of the people of Kenya.
+6. The rights under this Article do not extend to any property that has been found to have been unlawfully acquired.
 
 ### 41. Labour relations.
-
-  1. Every person has the right to fair labour practices.
-
-  2. Every worker has the right-
-
-      a. to fair remuneration;
-
-      b. to reasonable working conditions;
-
-      c. to form, join or participate in the activities and programmes of a
-trade union; and
-
-      d. to go on strike.
-
-  3. Every employer has the right-
-
-      e. to form and join an employers organisation; and
-
-      f. to participate in the activities and programmes of an employers
-organisation.
-
-  4. Every trade union and every employers’ organisation has the right-
-
-      a. to determine its own administration, programmes and activities;
-
-      b. to organise; and
-
-      c. to form and join a federation.
-
-  5. Every trade union, employers’ organisation and employer has the
-right to engage in collective bargaining.
+1. Every person has the right to fair labour practices.
+2. Every worker has the right:  
+  a. to fair remuneration;  
+  b. to reasonable working conditions;  
+  c. to form, join or participate in the activities and programmes of a trade union; and  
+  d. to go on strike.
+3. Every employer has the right:  
+  e. to form and join an employers organisation; and  
+  f. to participate in the activities and programmes of an employers organisation.
+4. Every trade union and every employers’ organisation has the right:  
+  a. to determine its own administration, programmes and activities;  
+  b. to organise; and  
+  c. to form and join a federation.  
+5. Every trade union, employers’ organisation and employer has the right to engage in collective bargaining.
 
 ### 42 Environment.
-
-Every person has the right  to a clean and healthy environment,
-which includes the right-
-
-  a. to have the environment protected for the benefit of present and
-  future generations through legislative and other measures, particularly
-  those contemplated in Article 69; and
-
-  b. to have obligations relating to the environment fulfilled under
-  Article 70.
+Every person has the right to a clean and healthy environment, which includes the right:  
+  a. to have the environment protected for the benefit of present and future generations through legislative and other measures, particularly those contemplated in Article 69; and  
+  b. to have obligations relating to the environment fulfilled under Article 70.
 
 ### 43 Economic and social rights.
-
-  1. Every person has the right-
-
-      a. to the highest attainable standard of health, which includes the
-right to health care services, including reproductive health care;
-
-      b. to accessible and adequate housing, and to reasonable standards of
-sanitation;
-
-      c. to be free from hunger, and to have adequate food of acceptable
-quality;
-
-      d. to clean and safe water in adequate quantities;
-
-      e. to social security; and
-
-      f. to education.
-
-  2. A person shall not be denied emergency medical treatment.
-
-  3. The State shall provide appropriate social security to persons who
-are unable to support themselves and their dependants.
+1. Every person has the right:  
+  a. to the highest attainable standard of health, which includes the right to health care services, including reproductive health care;  
+  b. to accessible and adequate housing, and to reasonable standards of sanitation;  
+  c. to be free from hunger, and to have adequate food of acceptable quality;  
+  d. to clean and safe water in adequate quantities;  
+  e. to social security; and  
+  f. to education.  
+2. A person shall not be denied emergency medical treatment.
+3. The State shall provide appropriate social security to persons who are unable to support themselves and their dependants.
 
 ### 44 Language and culture.
-
-  1. Every person has the right to use the language, and to
-participate in the cultural life, of the person’s choice.
-
-  2. A person belonging to a cultural or linguistic community has the
-right, with other members of that community-
-
-      a. to enjoy the person’s culture and use the person’s language; or
-
-      b. to form, join and maintain cultural and linguistic associations
-and other organs of civil society.
-
-  3. A person shall not compel another person to perform, observe or
-undergo any cultural practice or rite.
+1. Every person has the right to use the language, and to participate in the cultural life, of the person’s choice.
+2. A person belonging to a cultural or linguistic community has the right, with other members of that community:  
+  a. to enjoy the person’s culture and use the person’s language; or  
+  b. to form, join and maintain cultural and linguistic associations and other organs of civil society.
+3. A person shall not compel another person to perform, observe or undergo any cultural practice or rite.
 
 ### 45 Family.
-
-  1. The family is the natural and fundamental unit of society
-and the necessary basis of social order, and shall enjoy the recognition
-and protection of the State.
-
-  2. Every adult  has the right to marry a person of the opposite sex,
-based on the free consent of the parties.
-
-  3. Parties to a marriage are entitled to equal rights at the time of
-the marriage, during the marriage and at the dissolution of the
-marriage.
-
-  4. Parliament shall enact legislation that recognises-
-
-      a. marriages concluded under any tradition, or system of religious,
-personal or family law; and
-
-      b. any system of personal and family law under any tradition, or
-adhered to by persons professing a particular religion,to the extent that any such marriages or systems of law are consistent
-with this Constitution.
+1. The family is the natural and fundamental unit of society and the necessary basis of social order, and shall enjoy the recognition and protection of the State.
+2. Every adult  has the right to marry a person of the opposite sex, based on the free consent of the parties.
+3. Parties to a marriage are entitled to equal rights at the time of the marriage, during the marriage and at the dissolution of the marriage.
+4. Parliament shall enact legislation that recognises:  
+  a. marriages concluded under any tradition, or system of religious, personal or family law; and  
+  b. any system of personal and family law under any tradition, or adhered to by persons professing a particular religion,to the extent that any such marriages or systems of law are consistent with this Constitution.
 
 ### 46 Consumer rights.
-
-  1. Consumers have the right-
-
-      a. to goods and services of reasonable quality;
-
-      b. to the information necessary for them to gain full benefit from
-goods and services;
-
-      c. to the protection of their health, safety, and economic interests;
-and
-
-      d. to compensation for loss or injury arising from defects in goods
-or services.
-
-  2. Parliament shall enact legislation to provide for consumer
-protection and for fair, honest and decent advertising.
-
-  3. This Article applies to goods and services offered by public
-entities or private persons.
+1. Consumers have the right:  
+  a. to goods and services of reasonable quality;  
+  b. to the information necessary for them to gain full benefit from goods and services;  
+  c. to the protection of their health, safety, and economic interests; and  
+  d. to compensation for loss or injury arising from defects in goods or services.
+2. Parliament shall enact legislation to provide for consumer protection and for fair, honest and decent advertising.
+3. This Article applies to goods and services offered by public entities or private persons.
 
 ### 47 Fair administrative action.
-
-  1. Every person has the right to administrative action that is
-expeditious, efficient, lawful, reasonable and procedurally fair.
-
-  2. If a right or fundamental freedom of a person has been or is likely
-to be adversely affected by administrative action, the person has the
-right to be given written reasons for the action.
-
-  3. Parliament shall enact legislation to give effect to the rights in
-clause  1. and that legislation shall-
-
-      a. provide for the review of administrative action by a court or, if
-appropriate, an independent and impartial tribunal; and
-
-      b. promote efficient administration.
+1. Every person has the right to administrative action that isexpeditious, efficient, lawful, reasonable and procedurally fair.
+2. If a right or fundamental freedom of a person has been or is likely to be adversely affected by administrative action, the person has the right to be given written reasons for the action.
+3. Parliament shall enact legislation to give effect to the rights in clause  1. and that legislation shall:  
+  a. provide for the review of administrative action by a court or, if appropriate, an independent and impartial tribunal; and  
+  b. promote efficient administration.
 
 ### 48 Access to justice.
-
-The State shall ensure access to justice for all persons and, if
-any fee is required, it shall be reasonable and shall not impede access
-to justice.
+The State shall ensure access to justice for all persons and, if any fee is required, it shall be reasonable and shall not impede access to justice.
 
 ### 49 Rights of arrested persons.
-
-  1. An arrested person has the right-
-
-      a. to be informed promptly, in language that the person understands,of-
-
-      ​(i) the reason for the arrest;
-
-      ​(ii) the right to remain silent; and
-
-      ​(iii) the consequences of not remaining silent;
-
-      b. to remain silent;
-
-      c. to communicate with an advocate, and other persons whose
-assistance is necessary;
-
-      d. not to be compelled to make any confession or admission that could
-be used in evidence against the person;
-
-      e. to be held separately from persons who are serving a sentence;
-
-      f. to be brought before a court as soon as reasonably possible, but not later than-
-
-      ​(i) twenty-four hours after being arrested; or
-
-      ​(ii) if the twenty-four hours ends outside ordinary court hours, or on
-      a day that is not an ordinary court day, the end of the next court day;
-
-      g. at the first court appearance, to be charged or informed of the reason for the detention continuing, or to be released; and
-
-      h. to be released on bond or bail, on reasonable conditions, pending a charge or trial, unless there are compelling reasons not to be released.
-
-  2. A person shall not be remanded in custody for an offence if the
-offence is punishable by a fine only or by imprisonment for not more
-than six months.
+1. An arrested person has the right:  
+  a. to be informed promptly, in language that the person understands,of:  
+      (i) the reason for the arrest;  
+      (ii) the right to remain silent; and  
+      (iii) the consequences of not remaining silent;  
+  b. to remain silent;  
+  c. to communicate with an advocate, and other persons whose assistance is necessary;  
+  d. not to be compelled to make any confession or admission that could be used in evidence against the person;  
+  e. to be held separately from persons who are serving a sentence;  
+  f. to be brought before a court as soon as reasonably possible, but not later than:  
+      (i) twenty-four hours after being arrested; or
+      (ii) if the twenty-four hours ends outside ordinary court hours, or on a day that is not an ordinary court day, the end of the next court day;
+  g. at the first court appearance, to be charged or informed of the reason for the detention continuing, or to be released; and  
+  h. to be released on bond or bail, on reasonable conditions, pending a charge or trial, unless there are compelling reasons not to be released.
+2. A person shall not be remanded in custody for an offence if the offence is punishable by a fine only or by imprisonment for not more than six months.
 
 ### 50 Fair hearing.
-
-  1. Every person has the right to have any dispute that can be
-resolved by the application of law decided in a fair and public hearing
-before a court or, if appropriate, another independent and impartial
-tribunal or body.
-
-  2. Every accused person has the right to a fair trial, which includes
-the right-
-
-      a. to be presumed innocent until the contrary is proved;
-
-      b. to be informed of the charge, with sufficient detail to answer it;
-
-      c. to have adequate time and facilities to prepare a defence;
-
-      d. to a public trial before a court established under this
-Constitution;
-
-      e. to have the trial begin and conclude without unreasonable delay;
-
-      f. to be present when being tried, unless the conduct of the accused
-person makes it impossible for the trial to proceed;
-
-      g. to choose, and be represented by, an advocate, and to be informed
-of this right promptly;
-
-      h. to have an advocate assigned to the accused person by the State
-and at State expense, if substantial injustice would otherwise result,
-and to be informed of this right promptly;
-
-      i. to remain silent, and not to testify during the proceedings;
-
-      j. to be informed in advance of the evidence the prosecution intends
-to rely on, and to have reasonable access to that evidence;
-
-      k. to adduce and challenge evidence;
-
-      l. to refuse to give self-incriminating evidence;
-
-      m. to have the assistance of an interpreter without payment if the
-accused person cannot understand the language used at the trial;
-
-      n. not to be convicted for an act or omission that at the time it was
-committed or omitted was not-
-
-    ​(i) an offence in Kenya; or
-
-    ​(ii) a crime under international law;
-
-      o. not to be tried for an offence in respect of an act or omission
-for which the accused person has previously been either acquitted or
-convicted;
-
-      p. to the benefit of the least severe of the prescribed punishments
-for an offence, if the prescribed punishment for the offence has been
-changed between the time that the offence was committed and the time of
-sentencing; and
-
-      q. if convicted, to appeal to, or apply for review by, a higher court
-as prescribed by law.
-
-  3. If this Article requires information to be given to a person, the
-information shall be given in language that the person understands.
-
-  4. Evidence obtained in a manner that violates any right or
-fundamental freedom in the Bill of Rights shall be excluded if the
-admission of that evidence would render the trial unfair, or would
-otherwise be detrimental to the administration of justice.
-
-  5. An accused person-
-
-      a. charged with an offence, other than an offence that the court may
-try by summary procedures, is entitled during the trial to a copy of the
-record of the proceedings of the trial on request; and
-
-      b. has the right to a copy of the record of the proceedings within a
-reasonable period after they are concluded, in return for a reasonable
-fee as prescribed by law.
-
-  6. A person who is convicted of a criminal offence may petition the
-High Court for a new trial if- 
-
-      a. the person’s appeal, if any, has been dismissed by the highest
-court to which the person is entitled to appeal, or the person did not
-appeal within the time allowed for appeal; and
-
-      b. new and compelling evidence has become available.
-
-  7. In the interest of justice, a court may allow an intermediary to
-assist a complainant or an accused person to communicate with the court.
-
-  8. This Article does not prevent the exclusion of the press or other
-members of the public from any proceedings if the exclusion is
-necessary, in a free and democratic society, to protect witnesses or
-vulnerable persons, morality, public order or national security.
-
-  9. Parliament shall enact legislation providing for the protection,
-rights and welfare of victims of offences.
+1. Every person has the right to have any dispute that can be resolved by the application of law decided in a fair and public hearing before a court or, if appropriate, another independent and impartial tribunal or body.
+2. Every accused person has the right to a fair trial, which includes
+the right:  
+  a. to be presumed innocent until the contrary is proved;  
+  b. to be informed of the charge, with sufficient detail to answer it;  
+  c. to have adequate time and facilities to prepare a defence;  
+  d. to a public trial before a court established under this Constitution;  
+  e. to have the trial begin and conclude without unreasonable delay;  
+  f. to be present when being tried, unless the conduct of the accused person makes it impossible for the trial to proceed;  
+  g. to choose, and be represented by, an advocate, and to be informed of this right promptly;  
+  h. to have an advocate assigned to the accused person by the State and at State expense, if substantial injustice would otherwise result, and to be informed of this right promptly;  
+  i. to remain silent, and not to testify during the proceedings;  
+  j. to be informed in advance of the evidence the prosecution intends to rely on, and to have reasonable access to that evidence;  
+  k. to adduce and challenge evidence;  
+  l. to refuse to give self-incriminating evidence;  
+  m. to have the assistance of an interpreter without payment if the accused person cannot understand the language used at the trial;  
+  n. not to be convicted for an act or omission that at the time it was committed or omitted was not:  
+      ​(i) an offence in Kenya; or  
+      ​(ii) a crime under international law;  
+  o. not to be tried for an offence in respect of an act or omission for which the accused person has previously been either acquitted or convicted;  
+  p. to the benefit of the least severe of the prescribed punishments for an offence, if the prescribed punishment for the offence has been changed between the time that the offence was committed and the time of sentencing; and  
+  q. if convicted, to appeal to, or apply for review by, a higher court as prescribed by law.  
+3. If this Article requires information to be given to a person, the information shall be given in language that the person understands.
+4. Evidence obtained in a manner that violates any right or fundamental freedom in the Bill of Rights shall be excluded if the admission of that evidence would render the trial unfair, or would otherwise be detrimental to the administration of justice.
+5. An accused person:  
+  a. charged with an offence, other than an offence that the court may try by summary procedures, is entitled during the trial to a copy of the record of the proceedings of the trial on request; and  
+  b. has the right to a copy of the record of the proceedings within a reasonable period after they are concluded, in return for a reasonable fee as prescribed by law.
+6. A person who is convicted of a criminal offence may petition the High Court for a new trial if:  
+  a. the person’s appeal, if any, has been dismissed by the highest court to which the person is entitled to appeal, or the person did not appeal within the time allowed for appeal; and  
+  b. new and compelling evidence has become available.
+7. In the interest of justice, a court may allow an intermediary to assist a complainant or an accused person to communicate with the court.
+8. This Article does not prevent the exclusion of the press or other members of the public from any proceedings if the exclusion is necessary, in a free and democratic society, to protect witnesses or vulnerable persons, morality, public order or national security.
+9. Parliament shall enact legislation providing for the protection, rights and welfare of victims of offences.
 
 ### 51 Rights of persons detained, held in custody or imprisoned.
 
