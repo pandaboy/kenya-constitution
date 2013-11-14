@@ -27,7 +27,6 @@ We, the people of Kenya:
 # Chapter One: Sovereignty of the People and Supremacy of this Constitution
 
 ### 1. Sovereignty of the people.
-
 1. All sovereign power belongs to the people of Kenya and shall be exercised only in accordance with this Constitution.
 2. The people may exercise their sovereign power either directly or through their democratically elected representatives.
 3. Sovereign power under this Constitution is delegated to the following State organs, which shall perform their functions in accordance with this Constitution:  
@@ -39,7 +38,6 @@ We, the people of Kenya:
   b. the county level.
 
 ### 2. Supremacy of this Constitution.
-
 1. This Constitution is the supreme law of the Republic andbinds all persons and all State organs at both levels of government.
 2. No person may claim or exercise State authority except asauthorised under this Constitution.
 3. The validity or legality of this Constitution is not subject to challenge by or before any court or other State organ.
@@ -48,10 +46,8 @@ We, the people of Kenya:
 6. Any treaty or convention ratified by Kenya shall form part of the law of Kenya under this Constitution.
 
 ### 3. Defence of this Constitution.
-
 1. Every person has an obligation to respect, uphold and defend this Constitution.
 2. Any attempt to establish a government otherwise than in compliance with this Constitution is unlawful.
-
 
 # Chapter Two: The Republic
 
